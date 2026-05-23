@@ -175,14 +175,14 @@ def process_commands() -> bool:
 
         if cmd in ("/start", "/help"):
             _cmd_help()
-        elif cmd == "/scan":
+        elif cmd in ("/scan", "hi", "hello", "scan"):
             _cmd_scan_ack()
             scan_requested = True
         elif cmd == "/status":
             _cmd_status()
         elif cmd == "/stats":
             _cmd_stats()
-        # ignore non-commands silently
+        # ignore everything else silently
 
     save_offset(offset)
     return scan_requested
