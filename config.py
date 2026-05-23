@@ -89,10 +89,8 @@ SKILL_MATCH_THRESHOLD = 2   # min skill matches to fire notification
 # Search queries sent to each scraper
 SEARCHES = [
     "business analyst health insurance India",
-    "business analyst TPA India",
+    "business analyst TPA insurer India",
     "technical business analyst insurance India",
-    "product analyst health insurance India",
-    "BA claims cashless health insurer India",
 ]
 
 SEEN_JOBS_FILE = "seen_jobs.json"

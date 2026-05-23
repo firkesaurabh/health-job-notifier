@@ -21,7 +21,9 @@ from store import deduplicate, load_seen, save_seen
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s  %(levelname)-8s  %(message)s",
-    handlers=[logging.StreamHandler(sys.stdout)],
+    handlers=[logging.StreamHandler(
+        open(sys.stdout.fileno(), mode='w', encoding='utf-8', closefd=False)
+    )],
 )
 logger = logging.getLogger(__name__)
 
