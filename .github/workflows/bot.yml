@@ -1,0 +1,67 @@
+name: Telegram Bot Commands
+
+on:
+  schedule:
+    - cron: "30 * * * *"   # every hour at :30 (main scan fires at :00)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bot:
+    name: Check Commands
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install --quiet -r requirements.txt
+
+      # ── Step 1: process commands, detect if /scan was requested ─────────────
+      - name: Process Telegram commands
+        id: commands
+        env:
+          TELEGRAM_TOKEN:   ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python - <<'PYEOF'
+          import os
+          from bot import process_commands
+          scan = process_commands()
+          out = os.environ.get("GITHUB_OUTPUT", "")
+          if out:
+              with open(out, "a") as f:
+                  f.write(f"scan_requested={'true' if scan else 'false'}\n")
+          else:
+              print(f"scan_requested={scan}")
+          PYEOF
+
+      # ── Step 2: run full scan only if user sent /scan ────────────────────────
+      - name: Run scan (on demand)
+        if: steps.commands.outputs.scan_requested == 'true'
+        env:
+          TELEGRAM_TOKEN:   ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
+
+      # ── Step 3: commit updated state files ───────────────────────────────────
+      - name: Persist bot state
+        run: |
+          git config user.name  "job-scanner-bot"
+          git config user.email "job-scanner@github-actions.local"
+          git add bot_offset.json scan_log.json seen_jobs.json 2>/dev/null || true
+          git diff --staged --quiet \
+            || git commit -m "chore: update bot state [skip ci]"
+          git push
