@@ -1,0 +1,51 @@
+name: Health Job Scanner
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour at :00
+  workflow_dispatch:        # manual trigger from GitHub UI
+
+permissions:
+  contents: write           # needed to commit seen_jobs.json back
+
+jobs:
+  scan:
+    name: Scan & Notify
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────────
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python setup with pip cache ───────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # ── 3. Install deps ──────────────────────────────────────────────────────
+      - name: Install dependencies
+        run: pip install --quiet -r requirements.txt
+
+      # ── 4. Run scanner ───────────────────────────────────────────────────────
+      - name: Run job scanner
+        env:
+          TELEGRAM_TOKEN:   ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
+
+      # ── 5. Commit updated seen_jobs.json ─────────────────────────────────────
+      - name: Persist seen jobs
+        run: |
+          git config user.name  "job-scanner-bot"
+          git config user.email "job-scanner@github-actions.local"
+          git add seen_jobs.json
+          # Only commit if the file actually changed
+          git diff --staged --quiet \
+            || git commit -m "chore: update seen jobs [skip ci]"
+          git push
