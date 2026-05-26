@@ -1,15 +1,20 @@
 {
-  "total_runs": 40,
-  "total_matches": 7,
-  "last_run": "2026-05-26 09:38",
-  "jobs_collected": 14,
-  "new_jobs": 7,
-  "matches": 1,
+  "total_runs": 41,
+  "total_matches": 9,
+  "last_run": "2026-05-26 16:35",
+  "jobs_collected": 10,
+  "new_jobs": 6,
+  "matches": 2,
   "last_matches": [
     {
-      "title": "Senior Business Analyst",
-      "company": "Alp Consulting Ltd.",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-alp-consulting-ltd-4418231578"
+      "title": "FBS Guidewire PC Business Analyst III",
+      "company": "Capgemini",
+      "url": "https://in.linkedin.com/jobs/view/fbs-guidewire-pc-business-analyst-iii-at-capgemini-4419159414"
+    },
+    {
+      "title": "FBS Guidewire PC Business Analyst III",
+      "company": "Capgemini",
+      "url": "https://in.linkedin.com/jobs/view/fbs-guidewire-pc-business-analyst-iii-at-capgemini-4419175113"
     }
   ]
 }
