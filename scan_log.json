@@ -1,9 +1,15 @@
 {
-  "total_runs": 55,
-  "total_matches": 9,
-  "last_run": "2026-05-28 09:58",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 56,
+  "total_matches": 10,
+  "last_run": "2026-05-28 13:45",
+  "jobs_collected": 14,
+  "new_jobs": 11,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "ValueMomentum",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-valuemomentum-4409934202"
+    }
+  ]
 }
