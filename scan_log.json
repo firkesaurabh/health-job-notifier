@@ -1,9 +1,15 @@
 {
-  "total_runs": 57,
-  "total_matches": 10,
-  "last_run": "2026-05-28 17:30",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 58,
+  "total_matches": 11,
+  "last_run": "2026-05-28 20:01",
+  "jobs_collected": 10,
+  "new_jobs": 4,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Veradigm\u00ae",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-veradigm%C2%AE-4420478073"
+    }
+  ]
 }
