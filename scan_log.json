@@ -1,15 +1,9 @@
 {
-  "total_runs": 72,
+  "total_runs": 73,
   "total_matches": 15,
-  "last_run": "2026-05-30 11:09",
-  "jobs_collected": 10,
-  "new_jobs": 3,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Client Business Analyst",
-      "company": "Zelis",
-      "url": "https://in.linkedin.com/jobs/view/client-business-analyst-at-zelis-4411376268"
-    }
-  ]
+  "last_run": "2026-05-30 12:57",
+  "jobs_collected": 0,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
