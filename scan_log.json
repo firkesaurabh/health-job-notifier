@@ -1,15 +1,20 @@
 {
-  "total_runs": 76,
-  "total_matches": 16,
-  "last_run": "2026-05-30 16:54",
+  "total_runs": 77,
+  "total_matches": 18,
+  "last_run": "2026-05-30 17:55",
   "jobs_collected": 10,
   "new_jobs": 5,
-  "matches": 1,
+  "matches": 2,
   "last_matches": [
     {
-      "title": "Business Analyst Japanese",
-      "company": "algoleap",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-japanese-at-algoleap-4411715830"
+      "title": "Associate Business Analyst",
+      "company": "Optum India",
+      "url": "https://in.linkedin.com/jobs/view/associate-business-analyst-at-optum-india-4421233720"
+    },
+    {
+      "title": "Senior Business Systems Analyst - Acute and  Inpatient Documentation",
+      "company": "Optum India",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-systems-analyst-acute-and-inpatient-documentation-at-optum-india-4421239424"
     }
   ]
 }
