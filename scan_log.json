@@ -1,9 +1,15 @@
 {
-  "total_runs": 80,
-  "total_matches": 18,
-  "last_run": "2026-05-30 21:47",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 81,
+  "total_matches": 19,
+  "last_run": "2026-05-30 22:44",
+  "jobs_collected": 10,
+  "new_jobs": 3,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Senior Business Analyst Japanese",
+      "company": "algoleap",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-japanese-at-algoleap-4411729107"
+    }
+  ]
 }
