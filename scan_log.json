@@ -1,9 +1,15 @@
 {
-  "total_runs": 75,
-  "total_matches": 15,
-  "last_run": "2026-05-30 15:57",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 76,
+  "total_matches": 16,
+  "last_run": "2026-05-30 16:54",
+  "jobs_collected": 10,
+  "new_jobs": 5,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst Japanese",
+      "company": "algoleap",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-japanese-at-algoleap-4411715830"
+    }
+  ]
 }
