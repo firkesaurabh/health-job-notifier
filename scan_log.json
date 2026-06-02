@@ -1,15 +1,9 @@
 {
-  "total_runs": 102,
+  "total_runs": 103,
   "total_matches": 21,
-  "last_run": "2026-06-02 05:20",
-  "jobs_collected": 20,
-  "new_jobs": 9,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "Staffington Global",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-staffington-global-4422867436"
-    }
-  ]
+  "last_run": "2026-06-02 09:57",
+  "jobs_collected": 10,
+  "new_jobs": 6,
+  "matches": 0,
+  "last_matches": []
 }
