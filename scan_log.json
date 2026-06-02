@@ -1,15 +1,9 @@
 {
-  "total_runs": 100,
+  "total_runs": 101,
   "total_matches": 20,
-  "last_run": "2026-06-01 22:28",
+  "last_run": "2026-06-02 00:03",
   "jobs_collected": 10,
-  "new_jobs": 10,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Salesforce Health Cloud Business Analyst",
-      "company": "Persistent Systems",
-      "url": "https://in.linkedin.com/jobs/view/salesforce-health-cloud-business-analyst-at-persistent-systems-4422823312"
-    }
-  ]
+  "new_jobs": 6,
+  "matches": 0,
+  "last_matches": []
 }
