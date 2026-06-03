@@ -1,9 +1,15 @@
 {
-  "total_runs": 110,
-  "total_matches": 22,
-  "last_run": "2026-06-03 10:29",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 111,
+  "total_matches": 23,
+  "last_run": "2026-06-03 15:24",
+  "jobs_collected": 20,
+  "new_jobs": 17,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Senior Business Analyst- Insurance Claims Transformation",
+      "company": "Allianz Services",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-insurance-claims-transformation-at-allianz-services-4422678387"
+    }
+  ]
 }
