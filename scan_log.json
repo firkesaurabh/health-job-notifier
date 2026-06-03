@@ -1,15 +1,9 @@
 {
-  "total_runs": 108,
+  "total_runs": 109,
   "total_matches": 22,
-  "last_run": "2026-06-03 00:22",
+  "last_run": "2026-06-03 05:53",
   "jobs_collected": 10,
-  "new_jobs": 6,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "Gallagher",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-gallagher-4152082126"
-    }
-  ]
+  "new_jobs": 4,
+  "matches": 0,
+  "last_matches": []
 }
