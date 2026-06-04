@@ -1,9 +1,25 @@
 {
-  "total_runs": 118,
-  "total_matches": 26,
-  "last_run": "2026-06-04 16:15",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 119,
+  "total_matches": 29,
+  "last_run": "2026-06-04 19:11",
+  "jobs_collected": 10,
+  "new_jobs": 7,
+  "matches": 3,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Gallagher",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-gallagher-4152082132"
+    },
+    {
+      "title": "Duck Creek Claims Business Analyst",
+      "company": "Xceedance",
+      "url": "https://in.linkedin.com/jobs/view/duck-creek-claims-business-analyst-at-xceedance-4423399188"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Takeda",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-takeda-4411143010"
+    }
+  ]
 }
