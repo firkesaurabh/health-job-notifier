@@ -1,15 +1,9 @@
 {
-  "total_runs": 114,
+  "total_runs": 115,
   "total_matches": 24,
-  "last_run": "2026-06-04 00:24",
-  "jobs_collected": 17,
-  "new_jobs": 6,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Sr Product Analyst",
-      "company": "Cohere Health",
-      "url": "https://in.linkedin.com/jobs/view/sr-product-analyst-at-cohere-health-4422949280"
-    }
-  ]
+  "last_run": "2026-06-04 05:30",
+  "jobs_collected": 0,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
