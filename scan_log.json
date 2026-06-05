@@ -1,9 +1,15 @@
 {
-  "total_runs": 124,
-  "total_matches": 29,
-  "last_run": "2026-06-05 09:01",
-  "jobs_collected": 16,
-  "new_jobs": 1,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 125,
+  "total_matches": 30,
+  "last_run": "2026-06-05 12:29",
+  "jobs_collected": 25,
+  "new_jobs": 15,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Emerson",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-emerson-4393913249"
+    }
+  ]
 }
