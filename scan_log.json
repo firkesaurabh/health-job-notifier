@@ -1,15 +1,9 @@
 {
-  "total_runs": 153,
+  "total_runs": 154,
   "total_matches": 35,
-  "last_run": "2026-06-07 20:58",
-  "jobs_collected": 15,
-  "new_jobs": 2,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Business Analyst",
-      "company": "Roboyo",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-roboyo-4421594413"
-    }
-  ]
+  "last_run": "2026-06-07 22:00",
+  "jobs_collected": 0,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
