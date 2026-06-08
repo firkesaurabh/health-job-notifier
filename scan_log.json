@@ -1,15 +1,20 @@
 {
-  "total_runs": 158,
-  "total_matches": 36,
-  "last_run": "2026-06-08 12:19",
+  "total_runs": 159,
+  "total_matches": 38,
+  "last_run": "2026-06-08 16:42",
   "jobs_collected": 10,
   "new_jobs": 5,
-  "matches": 1,
+  "matches": 2,
   "last_matches": [
     {
-      "title": "Business Analyst \u2013 US Life Insurance Domain",
-      "company": "Hariguru Solutions",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-us-life-insurance-domain-at-hariguru-solutions-4425079922"
+      "title": "Lead Business Analyst (Insurance Domain)",
+      "company": "UST",
+      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-insurance-domain-at-ust-4425269242"
+    },
+    {
+      "title": "Senior Business Analyst (AI/ML)",
+      "company": "Confidential Jobs",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-ai-ml-at-confidential-jobs-4421945269"
     }
   ]
 }
