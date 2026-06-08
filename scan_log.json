@@ -1,9 +1,15 @@
 {
-  "total_runs": 157,
-  "total_matches": 35,
-  "last_run": "2026-06-08 07:20",
+  "total_runs": 158,
+  "total_matches": 36,
+  "last_run": "2026-06-08 12:19",
   "jobs_collected": 10,
-  "new_jobs": 3,
-  "matches": 0,
-  "last_matches": []
+  "new_jobs": 5,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst \u2013 US Life Insurance Domain",
+      "company": "Hariguru Solutions",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-us-life-insurance-domain-at-hariguru-solutions-4425079922"
+    }
+  ]
 }
