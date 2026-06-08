@@ -1,20 +1,9 @@
 {
-  "total_runs": 159,
+  "total_runs": 160,
   "total_matches": 38,
-  "last_run": "2026-06-08 16:42",
-  "jobs_collected": 10,
-  "new_jobs": 5,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Lead Business Analyst (Insurance Domain)",
-      "company": "UST",
-      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-insurance-domain-at-ust-4425269242"
-    },
-    {
-      "title": "Senior Business Analyst (AI/ML)",
-      "company": "Confidential Jobs",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-ai-ml-at-confidential-jobs-4421945269"
-    }
-  ]
+  "last_run": "2026-06-08 19:13",
+  "jobs_collected": 15,
+  "new_jobs": 6,
+  "matches": 0,
+  "last_matches": []
 }
