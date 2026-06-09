@@ -1,20 +1,9 @@
 {
-  "total_runs": 162,
+  "total_runs": 163,
   "total_matches": 40,
-  "last_run": "2026-06-08 23:05",
+  "last_run": "2026-06-09 01:51",
   "jobs_collected": 10,
-  "new_jobs": 4,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Business Analyst @MarshTech",
-      "company": "Marsh",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-%40marshtech-at-marsh-4425931164"
-    },
-    {
-      "title": "Business Analyst @MarshTech",
-      "company": "Marsh",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-%40marshtech-at-marsh-4425925206"
-    }
-  ]
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
