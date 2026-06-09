@@ -1,20 +1,9 @@
 {
-  "total_runs": 170,
+  "total_runs": 171,
   "total_matches": 42,
-  "last_run": "2026-06-09 21:27",
-  "jobs_collected": 20,
-  "new_jobs": 7,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "Fluent Health",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-fluent-health-4422283845"
-    },
-    {
-      "title": "Business Analyst \u2013 Consent & Enterprise ID",
-      "company": "Thomson Reuters",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-consent-enterprise-id-at-thomson-reuters-4425801104"
-    }
-  ]
+  "last_run": "2026-06-09 23:08",
+  "jobs_collected": 26,
+  "new_jobs": 3,
+  "matches": 0,
+  "last_matches": []
 }
