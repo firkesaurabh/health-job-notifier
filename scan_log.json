@@ -1,9 +1,15 @@
 {
-  "total_runs": 188,
-  "total_matches": 50,
-  "last_run": "2026-06-12 09:52",
+  "total_runs": 189,
+  "total_matches": 51,
+  "last_run": "2026-06-12 12:47",
   "jobs_collected": 10,
   "new_jobs": 4,
-  "matches": 0,
-  "last_matches": []
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Lead Business Analyst",
+      "company": "Xceedance",
+      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-at-xceedance-4426936775"
+    }
+  ]
 }
