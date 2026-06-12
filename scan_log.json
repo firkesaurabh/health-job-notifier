@@ -1,15 +1,15 @@
 {
-  "total_runs": 189,
-  "total_matches": 51,
-  "last_run": "2026-06-12 12:47",
+  "total_runs": 190,
+  "total_matches": 52,
+  "last_run": "2026-06-12 16:09",
   "jobs_collected": 10,
-  "new_jobs": 4,
+  "new_jobs": 7,
   "matches": 1,
   "last_matches": [
     {
-      "title": "Lead Business Analyst",
-      "company": "Xceedance",
-      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-at-xceedance-4426936775"
+      "title": "Senior Business Analyst",
+      "company": "Sapiens",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-sapiens-4424897281"
     }
   ]
 }
