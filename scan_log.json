@@ -1,15 +1,9 @@
 {
-  "total_runs": 205,
+  "total_runs": 206,
   "total_matches": 55,
-  "last_run": "2026-06-14 02:14",
-  "jobs_collected": 10,
-  "new_jobs": 1,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Lead Consultant(Business Analyst) - GDC",
-      "company": "Guidewire Software",
-      "url": "https://in.linkedin.com/jobs/view/lead-consultant-business-analyst-gdc-at-guidewire-software-4414614951"
-    }
-  ]
+  "last_run": "2026-06-14 07:13",
+  "jobs_collected": 32,
+  "new_jobs": 19,
+  "matches": 0,
+  "last_matches": []
 }
