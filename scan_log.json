@@ -1,9 +1,20 @@
 {
-  "total_runs": 219,
-  "total_matches": 56,
-  "last_run": "2026-06-15 22:08",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 220,
+  "total_matches": 58,
+  "last_run": "2026-06-16 00:20",
+  "jobs_collected": 10,
+  "new_jobs": 9,
+  "matches": 2,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Donyati",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-donyati-4427729272"
+    },
+    {
+      "title": "Business Analyst - India",
+      "company": "Persistent Systems",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-india-at-persistent-systems-4427757395"
+    }
+  ]
 }
