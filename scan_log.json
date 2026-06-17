@@ -1,9 +1,35 @@
 {
-  "total_runs": 228,
-  "total_matches": 59,
-  "last_run": "2026-06-17 10:26",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 229,
+  "total_matches": 64,
+  "last_run": "2026-06-17 14:22",
+  "jobs_collected": 11,
+  "new_jobs": 8,
+  "matches": 5,
+  "last_matches": [
+    {
+      "title": "Business Analyst - Healthcare Reference",
+      "company": "Gainwell Technologies",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-healthcare-reference-at-gainwell-technologies-4427334470"
+    },
+    {
+      "title": "Business Analyst (Reference Data)",
+      "company": "Gainwell Technologies",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-reference-data-at-gainwell-technologies-4427323446"
+    },
+    {
+      "title": "Senior Healthcare Business Analyst (SME Level)",
+      "company": "SPADTEK SOLUTIONS",
+      "url": "https://in.linkedin.com/jobs/view/senior-healthcare-business-analyst-sme-level-at-spadtek-solutions-4428469182"
+    },
+    {
+      "title": "Senior Business Analyst I",
+      "company": "Insurity",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-i-at-insurity-4428479111"
+    },
+    {
+      "title": "Senior Business Analyst",
+      "company": "Go Digit General Insurance",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-go-digit-general-insurance-4409791205"
+    }
+  ]
 }
