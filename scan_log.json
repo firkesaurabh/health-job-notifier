@@ -1,20 +1,9 @@
 {
-  "total_runs": 248,
+  "total_runs": 249,
   "total_matches": 72,
-  "last_run": "2026-06-19 22:02",
-  "jobs_collected": 19,
-  "new_jobs": 5,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Senior Business Analyst",
-      "company": "Optum India",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-optum-india-4431159312"
-    },
-    {
-      "title": "Business Process Analyst",
-      "company": "Optum India",
-      "url": "https://in.linkedin.com/jobs/view/business-process-analyst-at-optum-india-4431150318"
-    }
-  ]
+  "last_run": "2026-06-19 23:56",
+  "jobs_collected": 20,
+  "new_jobs": 20,
+  "matches": 0,
+  "last_matches": []
 }
