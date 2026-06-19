@@ -1,9 +1,30 @@
 {
-  "total_runs": 245,
-  "total_matches": 66,
-  "last_run": "2026-06-19 17:08",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 246,
+  "total_matches": 70,
+  "last_run": "2026-06-19 19:22",
+  "jobs_collected": 23,
+  "new_jobs": 20,
+  "matches": 4,
+  "last_matches": [
+    {
+      "title": "Lead Business Analyst + Data Analysis",
+      "company": "Chubb",
+      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-%2B-data-analysis-at-chubb-4430798915"
+    },
+    {
+      "title": "Business Analyst -U.S Healthcare(RCM)",
+      "company": "Talentgigs",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-u-s-healthcare-rcm-at-talentgigs-4429610641"
+    },
+    {
+      "title": "Technical Business Analyst",
+      "company": "OmegaHires",
+      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-at-omegahires-4430924409"
+    },
+    {
+      "title": "AES Guidewire ClaimCenter Business Analyst Senior Associate (Sr. Analyst) -  Consult",
+      "company": "PwC Acceleration Center India",
+      "url": "https://in.linkedin.com/jobs/view/aes-guidewire-claimcenter-business-analyst-senior-associate-sr-analyst-consult-at-pwc-acceleration-center-india-4408888036"
+    }
+  ]
 }
