@@ -1,9 +1,15 @@
 {
-  "total_runs": 253,
-  "total_matches": 72,
-  "last_run": "2026-06-20 11:49",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 254,
+  "total_matches": 73,
+  "last_run": "2026-06-20 13:21",
+  "jobs_collected": 10,
+  "new_jobs": 4,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst -U.S Healthcare(RCM)",
+      "company": "Talentgigs",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-u-s-healthcare-rcm-at-talentgigs-4430056633"
+    }
+  ]
 }
