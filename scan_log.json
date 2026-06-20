@@ -1,15 +1,15 @@
 {
-  "total_runs": 254,
-  "total_matches": 73,
-  "last_run": "2026-06-20 13:21",
-  "jobs_collected": 10,
-  "new_jobs": 4,
+  "total_runs": 255,
+  "total_matches": 74,
+  "last_run": "2026-06-20 15:27",
+  "jobs_collected": 20,
+  "new_jobs": 9,
   "matches": 1,
   "last_matches": [
     {
-      "title": "Business Analyst -U.S Healthcare(RCM)",
-      "company": "Talentgigs",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-u-s-healthcare-rcm-at-talentgigs-4430056633"
+      "title": "Business Systems Analyst",
+      "company": "Commvault",
+      "url": "https://in.linkedin.com/jobs/view/business-systems-analyst-at-commvault-4430064924"
     }
   ]
 }
