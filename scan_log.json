@@ -1,20 +1,9 @@
 {
-  "total_runs": 266,
+  "total_runs": 267,
   "total_matches": 78,
-  "last_run": "2026-06-21 17:15",
-  "jobs_collected": 15,
-  "new_jobs": 7,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Business Analyst -U.S Healthcare(RCM)",
-      "company": "Talentgigs",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-u-s-healthcare-rcm-at-talentgigs-4430323811"
-    },
-    {
-      "title": "Business Analyst",
-      "company": "Persistent Systems",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-persistent-systems-4430342211"
-    }
-  ]
+  "last_run": "2026-06-21 19:10",
+  "jobs_collected": 10,
+  "new_jobs": 5,
+  "matches": 0,
+  "last_matches": []
 }
