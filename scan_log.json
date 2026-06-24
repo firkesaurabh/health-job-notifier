@@ -1,15 +1,9 @@
 {
-  "total_runs": 290,
+  "total_runs": 291,
   "total_matches": 84,
-  "last_run": "2026-06-24 15:28",
+  "last_run": "2026-06-24 17:45",
   "jobs_collected": 20,
-  "new_jobs": 7,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Business Systems Analyst",
-      "company": "Envestnet",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-systems-analyst-at-envestnet-4432275865"
-    }
-  ]
+  "new_jobs": 2,
+  "matches": 0,
+  "last_matches": []
 }
