@@ -1,15 +1,25 @@
 {
-  "total_runs": 298,
-  "total_matches": 86,
-  "last_run": "2026-06-25 11:31",
-  "jobs_collected": 10,
-  "new_jobs": 7,
-  "matches": 1,
+  "total_runs": 299,
+  "total_matches": 89,
+  "last_run": "2026-06-25 13:58",
+  "jobs_collected": 33,
+  "new_jobs": 26,
+  "matches": 3,
   "last_matches": [
     {
-      "title": "Manager - Business Analyst",
-      "company": "Macquarie Group",
-      "url": "https://in.linkedin.com/jobs/view/manager-business-analyst-at-macquarie-group-4429884571"
+      "title": "Information Technology Business Analyst",
+      "company": "Talentgigs",
+      "url": "https://in.linkedin.com/jobs/view/information-technology-business-analyst-at-talentgigs-4432168081"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "IDFC FIRST Bank",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-idfc-first-bank-4403365310"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Acies",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-acies-4433317507"
     }
   ]
 }
