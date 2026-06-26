@@ -1,9 +1,15 @@
 {
-  "total_runs": 307,
-  "total_matches": 90,
-  "last_run": "2026-06-26 11:37",
-  "jobs_collected": 25,
-  "new_jobs": 12,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 308,
+  "total_matches": 91,
+  "last_run": "2026-06-26 13:55",
+  "jobs_collected": 10,
+  "new_jobs": 1,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "SENIOR BUSINESS ANALYST - Business Analysis",
+      "company": "Happiest Minds Technologies",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-business-analysis-at-happiest-minds-technologies-4433843303"
+    }
+  ]
 }
