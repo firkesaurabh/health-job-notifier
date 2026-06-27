@@ -1,9 +1,15 @@
 {
-  "total_runs": 321,
-  "total_matches": 98,
-  "last_run": "2026-06-27 17:01",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 322,
+  "total_matches": 99,
+  "last_run": "2026-06-27 18:59",
+  "jobs_collected": 26,
+  "new_jobs": 14,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Digital Solutions Business Analyst",
+      "company": "Macquarie Group",
+      "url": "https://in.linkedin.com/jobs/view/digital-solutions-business-analyst-at-macquarie-group-4400821089"
+    }
+  ]
 }
