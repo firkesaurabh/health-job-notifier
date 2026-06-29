@@ -1,9 +1,20 @@
 {
-  "total_runs": 342,
-  "total_matches": 100,
-  "last_run": "2026-06-29 12:21",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 343,
+  "total_matches": 102,
+  "last_run": "2026-06-29 16:31",
+  "jobs_collected": 10,
+  "new_jobs": 7,
+  "matches": 2,
+  "last_matches": [
+    {
+      "title": "Technical Business Analyst \u2013 U.S Healthcare RCM Applications",
+      "company": "Talentgigs",
+      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-%E2%80%93-u-s-healthcare-rcm-applications-at-talentgigs-4433646301"
+    },
+    {
+      "title": "IN_Senior Associate_Business Analyst_OC Guidewire_Advisory_Bangalore",
+      "company": "PwC India",
+      "url": "https://in.linkedin.com/jobs/view/in-senior-associate-business-analyst-oc-guidewire-advisory-bangalore-at-pwc-india-4434461924"
+    }
+  ]
 }
