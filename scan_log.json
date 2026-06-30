@@ -1,25 +1,25 @@
 {
-  "total_runs": 350,
-  "total_matches": 107,
-  "last_run": "2026-06-30 10:22",
-  "jobs_collected": 26,
-  "new_jobs": 14,
+  "total_runs": 351,
+  "total_matches": 110,
+  "last_run": "2026-06-30 13:01",
+  "jobs_collected": 24,
+  "new_jobs": 11,
   "matches": 3,
   "last_matches": [
     {
-      "title": "Senior Business Analyst",
-      "company": "Ciklum India",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-ciklum-india-4434977180"
+      "title": "business analyst- Claims",
+      "company": "EliteRecruitments",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-claims-at-eliterecruitments-4431921878"
     },
     {
-      "title": "Technical Business Analyst \u2013 U.S Healthcare RCM Applications",
-      "company": "Talentgigs",
-      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-%E2%80%93-u-s-healthcare-rcm-applications-at-talentgigs-4434193766"
+      "title": "business analyst- Insurance",
+      "company": "EliteRecruitments",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-insurance-at-eliterecruitments-4431935091"
     },
     {
-      "title": "BUSINESS ANALYST",
-      "company": "Zyntics",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-zyntics-4431557492"
+      "title": "business analyst- Underwriting",
+      "company": "EliteRecruitments",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-underwriting-at-eliterecruitments-4431928249"
     }
   ]
 }
