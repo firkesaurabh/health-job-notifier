@@ -1,25 +1,15 @@
 {
-  "total_runs": 351,
-  "total_matches": 110,
-  "last_run": "2026-06-30 13:01",
-  "jobs_collected": 24,
-  "new_jobs": 11,
-  "matches": 3,
+  "total_runs": 352,
+  "total_matches": 111,
+  "last_run": "2026-06-30 16:14",
+  "jobs_collected": 34,
+  "new_jobs": 18,
+  "matches": 1,
   "last_matches": [
     {
-      "title": "business analyst- Claims",
-      "company": "EliteRecruitments",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-claims-at-eliterecruitments-4431921878"
-    },
-    {
-      "title": "business analyst- Insurance",
-      "company": "EliteRecruitments",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-insurance-at-eliterecruitments-4431935091"
-    },
-    {
-      "title": "business analyst- Underwriting",
-      "company": "EliteRecruitments",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-underwriting-at-eliterecruitments-4431928249"
+      "title": "Business Analyst I",
+      "company": "Takeda",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-i-at-takeda-4434940858"
     }
   ]
 }
