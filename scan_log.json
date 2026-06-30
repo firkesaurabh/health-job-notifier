@@ -1,9 +1,15 @@
 {
-  "total_runs": 347,
-  "total_matches": 102,
-  "last_run": "2026-06-29 23:50",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 348,
+  "total_matches": 103,
+  "last_run": "2026-06-30 02:01",
+  "jobs_collected": 11,
+  "new_jobs": 7,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Senior Business Analyst I (2718-INS)",
+      "company": "Insurity",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-i-2718-ins-at-insurity-4434148574"
+    }
+  ]
 }
