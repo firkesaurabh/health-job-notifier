@@ -1,15 +1,25 @@
 {
-  "total_runs": 349,
-  "total_matches": 104,
-  "last_run": "2026-06-30 06:43",
-  "jobs_collected": 10,
-  "new_jobs": 5,
-  "matches": 1,
+  "total_runs": 350,
+  "total_matches": 107,
+  "last_run": "2026-06-30 10:22",
+  "jobs_collected": 26,
+  "new_jobs": 14,
+  "matches": 3,
   "last_matches": [
     {
-      "title": "Business Systems Analyst",
-      "company": "SourcingXPress",
-      "url": "https://in.linkedin.com/jobs/view/business-systems-analyst-at-sourcingxpress-4433844596"
+      "title": "Senior Business Analyst",
+      "company": "Ciklum India",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-ciklum-india-4434977180"
+    },
+    {
+      "title": "Technical Business Analyst \u2013 U.S Healthcare RCM Applications",
+      "company": "Talentgigs",
+      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-%E2%80%93-u-s-healthcare-rcm-applications-at-talentgigs-4434193766"
+    },
+    {
+      "title": "BUSINESS ANALYST",
+      "company": "Zyntics",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-zyntics-4431557492"
     }
   ]
 }
