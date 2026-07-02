@@ -1,9 +1,15 @@
 {
-  "total_runs": 370,
-  "total_matches": 123,
-  "last_run": "2026-07-02 15:02",
-  "jobs_collected": 10,
-  "new_jobs": 1,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 371,
+  "total_matches": 124,
+  "last_run": "2026-07-02 17:23",
+  "jobs_collected": 20,
+  "new_jobs": 10,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "System Analyst - Lead Systems Analyst - GR - JR197697",
+      "company": "Carelon Global Solutions India",
+      "url": "https://in.linkedin.com/jobs/view/system-analyst-lead-systems-analyst-gr-jr197697-at-carelon-global-solutions-india-4436311065"
+    }
+  ]
 }
