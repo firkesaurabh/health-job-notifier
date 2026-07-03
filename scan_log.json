@@ -1,15 +1,9 @@
 {
-  "total_runs": 384,
+  "total_runs": 385,
   "total_matches": 128,
-  "last_run": "2026-07-03 18:57",
-  "jobs_collected": 20,
-  "new_jobs": 8,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Techno-Functional Business Analyst",
-      "company": "Flex",
-      "url": "https://in.linkedin.com/jobs/view/techno-functional-business-analyst-at-flex-4435473619"
-    }
-  ]
+  "last_run": "2026-07-03 20:11",
+  "jobs_collected": 0,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
