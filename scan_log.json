@@ -1,9 +1,15 @@
 {
-  "total_runs": 432,
-  "total_matches": 138,
-  "last_run": "2026-07-07 19:30",
-  "jobs_collected": 26,
-  "new_jobs": 9,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 433,
+  "total_matches": 139,
+  "last_run": "2026-07-07 21:13",
+  "jobs_collected": 34,
+  "new_jobs": 3,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Functional Analyst, AVP",
+      "company": "Deutsche Bank",
+      "url": "https://in.linkedin.com/jobs/view/business-functional-analyst-avp-at-deutsche-bank-4437857090"
+    }
+  ]
 }
