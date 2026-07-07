@@ -1,9 +1,15 @@
 {
-  "total_runs": 426,
-  "total_matches": 133,
-  "last_run": "2026-07-07 01:49",
-  "jobs_collected": 20,
-  "new_jobs": 2,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 427,
+  "total_matches": 134,
+  "last_run": "2026-07-07 05:56",
+  "jobs_collected": 32,
+  "new_jobs": 9,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst-Life Insurance",
+      "company": "LTM",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-life-insurance-at-ltm-4434514178"
+    }
+  ]
 }
