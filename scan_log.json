@@ -1,20 +1,9 @@
 {
-  "total_runs": 431,
+  "total_runs": 432,
   "total_matches": 138,
-  "last_run": "2026-07-07 17:49",
-  "jobs_collected": 16,
-  "new_jobs": 5,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Business Analyst-Claims",
-      "company": "CG-VAK Software & Exports Ltd.",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-claims-at-cg-vak-software-exports-ltd-4436826174"
-    },
-    {
-      "title": "Business Analyst-Claims",
-      "company": "CG-VAK Software & Exports Ltd.",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-claims-at-cg-vak-software-exports-ltd-4436822385"
-    }
-  ]
+  "last_run": "2026-07-07 19:30",
+  "jobs_collected": 26,
+  "new_jobs": 9,
+  "matches": 0,
+  "last_matches": []
 }
