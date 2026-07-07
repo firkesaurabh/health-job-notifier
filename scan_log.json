@@ -1,15 +1,15 @@
 {
-  "total_runs": 429,
-  "total_matches": 135,
-  "last_run": "2026-07-07 12:19",
+  "total_runs": 430,
+  "total_matches": 136,
+  "last_run": "2026-07-07 15:38",
   "jobs_collected": 20,
-  "new_jobs": 8,
+  "new_jobs": 6,
   "matches": 1,
   "last_matches": [
     {
-      "title": "Business Analyst - Claims",
-      "company": "Infinity Career Edge",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-claims-at-infinity-career-edge-4436531511"
+      "title": "Business Analyst",
+      "company": "Zelis",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-zelis-4434533597"
     }
   ]
 }
