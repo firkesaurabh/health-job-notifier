@@ -1,15 +1,9 @@
 {
-  "total_runs": 442,
+  "total_runs": 443,
   "total_matches": 141,
-  "last_run": "2026-07-08 17:15",
-  "jobs_collected": 20,
-  "new_jobs": 6,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Healthcare Business Analyst (US Healthcare)",
-      "company": "Autonomize AI",
-      "url": "https://in.linkedin.com/jobs/view/healthcare-business-analyst-us-healthcare-at-autonomize-ai-4437058028"
-    }
-  ]
+  "last_run": "2026-07-08 19:01",
+  "jobs_collected": 0,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
