@@ -1,15 +1,35 @@
 {
-  "total_runs": 449,
-  "total_matches": 143,
-  "last_run": "2026-07-09 10:21",
-  "jobs_collected": 10,
-  "new_jobs": 3,
-  "matches": 1,
+  "total_runs": 450,
+  "total_matches": 148,
+  "last_run": "2026-07-09 13:41",
+  "jobs_collected": 35,
+  "new_jobs": 19,
+  "matches": 5,
   "last_matches": [
     {
-      "title": "Senior Business Analyst",
+      "title": "Technical Business Analyst \u2013 U.S Healthcare RCM Applications",
+      "company": "Talentgigs",
+      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-%E2%80%93-u-s-healthcare-rcm-applications-at-talentgigs-4437335673"
+    },
+    {
+      "title": "Business Analyst (P&C)",
       "company": "ValueMomentum",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-valuemomentum-4437365920"
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-p-c-at-valuemomentum-4437386552"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Fulcrum Digital Inc",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-fulcrum-digital-inc-4438634027"
+    },
+    {
+      "title": "Recurring Revenue Management IT Business Analyst",
+      "company": "Logitech",
+      "url": "https://in.linkedin.com/jobs/view/recurring-revenue-management-it-business-analyst-at-logitech-4429993043"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Persistent Systems",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-persistent-systems-4435683195"
     }
   ]
 }
