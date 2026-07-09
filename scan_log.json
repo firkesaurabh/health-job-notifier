@@ -1,9 +1,15 @@
 {
-  "total_runs": 447,
-  "total_matches": 141,
-  "last_run": "2026-07-08 23:58",
-  "jobs_collected": 16,
-  "new_jobs": 2,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 448,
+  "total_matches": 142,
+  "last_run": "2026-07-09 02:28",
+  "jobs_collected": 32,
+  "new_jobs": 8,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst - India",
+      "company": "Persistent Systems",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-india-at-persistent-systems-4432195832"
+    }
+  ]
 }
