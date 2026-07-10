@@ -1,25 +1,9 @@
 {
-  "total_runs": 458,
+  "total_runs": 459,
   "total_matches": 151,
-  "last_run": "2026-07-10 09:26",
-  "jobs_collected": 29,
-  "new_jobs": 6,
-  "matches": 3,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "Weekday (YC W21)",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-weekday-yc-w21-4435963219"
-    },
-    {
-      "title": "Technical Business Analyst \u2013 U.S Healthcare RCM Applications",
-      "company": "Talentgigs",
-      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-%E2%80%93-u-s-healthcare-rcm-applications-at-talentgigs-4437963380"
-    },
-    {
-      "title": "Business Analyst IRC296930",
-      "company": "GlobalLogic",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-irc296930-at-globallogic-4437971819"
-    }
-  ]
+  "last_run": "2026-07-10 12:17",
+  "jobs_collected": 10,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
