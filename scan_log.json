@@ -1,15 +1,9 @@
 {
-  "total_runs": 476,
+  "total_runs": 477,
   "total_matches": 154,
-  "last_run": "2026-07-11 16:40",
-  "jobs_collected": 35,
-  "new_jobs": 2,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Lead Business Analyst",
-      "company": "Carrier",
-      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-at-carrier-4437086073"
-    }
-  ]
+  "last_run": "2026-07-11 17:43",
+  "jobs_collected": 0,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
