@@ -1,25 +1,9 @@
 {
-  "total_runs": 518,
+  "total_runs": 519,
   "total_matches": 163,
-  "last_run": "2026-07-14 16:07",
-  "jobs_collected": 34,
-  "new_jobs": 12,
-  "matches": 3,
-  "last_matches": [
-    {
-      "title": "Senior Business Systems Analyst",
-      "company": "TriNet",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-systems-analyst-at-trinet-4440527860"
-    },
-    {
-      "title": "Business Analyst - Service Now",
-      "company": "Miratech",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-service-now-at-miratech-4437670804"
-    },
-    {
-      "title": "Business Analyst",
-      "company": "Policybazaar.com",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-policybazaar-com-4437665078"
-    }
-  ]
+  "last_run": "2026-07-14 17:54",
+  "jobs_collected": 0,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
