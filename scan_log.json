@@ -1,9 +1,15 @@
 {
-  "total_runs": 531,
-  "total_matches": 165,
-  "last_run": "2026-07-15 15:15",
-  "jobs_collected": 14,
-  "new_jobs": 2,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 532,
+  "total_matches": 166,
+  "last_run": "2026-07-15 17:01",
+  "jobs_collected": 10,
+  "new_jobs": 1,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Principal Business Analyst",
+      "company": "Bioksha",
+      "url": "https://in.linkedin.com/jobs/view/principal-business-analyst-at-bioksha-4438414569"
+    }
+  ]
 }
