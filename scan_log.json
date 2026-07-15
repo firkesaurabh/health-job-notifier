@@ -1,9 +1,15 @@
 {
-  "total_runs": 529,
-  "total_matches": 164,
-  "last_run": "2026-07-15 11:19",
-  "jobs_collected": 23,
-  "new_jobs": 3,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 530,
+  "total_matches": 165,
+  "last_run": "2026-07-15 13:03",
+  "jobs_collected": 26,
+  "new_jobs": 4,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Lead Business Analyst",
+      "company": "Allianz Services",
+      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-at-allianz-services-4440977149"
+    }
+  ]
 }
