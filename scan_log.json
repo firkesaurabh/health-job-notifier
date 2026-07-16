@@ -1,15 +1,9 @@
 {
-  "total_runs": 548,
+  "total_runs": 549,
   "total_matches": 177,
-  "last_run": "2026-07-16 19:54",
-  "jobs_collected": 37,
-  "new_jobs": 7,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Sales Business Analyst",
-      "company": "Dozee",
-      "url": "https://in.linkedin.com/jobs/view/sales-business-analyst-at-dozee-4441457971"
-    }
-  ]
+  "last_run": "2026-07-16 20:42",
+  "jobs_collected": 20,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
