@@ -1,9 +1,15 @@
 {
-  "total_runs": 543,
-  "total_matches": 174,
-  "last_run": "2026-07-16 11:24",
+  "total_runs": 544,
+  "total_matches": 175,
+  "last_run": "2026-07-16 13:12",
   "jobs_collected": 10,
-  "new_jobs": 1,
-  "matches": 0,
-  "last_matches": []
+  "new_jobs": 2,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "MDIndia Health Insurance TPA Pvt. Ltd.",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-mdindia-health-insurance-tpa-pvt-ltd-3888189087"
+    }
+  ]
 }
