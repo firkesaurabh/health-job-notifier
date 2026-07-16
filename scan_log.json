@@ -1,15 +1,9 @@
 {
-  "total_runs": 545,
+  "total_runs": 546,
   "total_matches": 176,
-  "last_run": "2026-07-16 15:23",
-  "jobs_collected": 23,
-  "new_jobs": 7,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "IDFC FIRST Bank",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-idfc-first-bank-4403356411"
-    }
-  ]
+  "last_run": "2026-07-16 16:59",
+  "jobs_collected": 0,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
