@@ -1,15 +1,9 @@
 {
-  "total_runs": 575,
+  "total_runs": 576,
   "total_matches": 180,
-  "last_run": "2026-07-18 14:13",
-  "jobs_collected": 16,
-  "new_jobs": 2,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "ARStrat",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-arstrat-4441701531"
-    }
-  ]
+  "last_run": "2026-07-18 15:42",
+  "jobs_collected": 10,
+  "new_jobs": 1,
+  "matches": 0,
+  "last_matches": []
 }
