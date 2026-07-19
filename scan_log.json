@@ -1,9 +1,15 @@
 {
-  "total_runs": 585,
-  "total_matches": 180,
-  "last_run": "2026-07-19 01:20",
+  "total_runs": 586,
+  "total_matches": 181,
+  "last_run": "2026-07-19 04:57",
   "jobs_collected": 10,
-  "new_jobs": 1,
-  "matches": 0,
-  "last_matches": []
+  "new_jobs": 2,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Technical Business Analyst \u2013 U.S Healthcare RCM Applications",
+      "company": "Talentgigs",
+      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-%E2%80%93-u-s-healthcare-rcm-applications-at-talentgigs-4441761631"
+    }
+  ]
 }
