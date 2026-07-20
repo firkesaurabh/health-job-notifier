@@ -1,15 +1,15 @@
 {
-  "total_runs": 603,
-  "total_matches": 184,
-  "last_run": "2026-07-20 08:34",
-  "jobs_collected": 18,
-  "new_jobs": 5,
+  "total_runs": 604,
+  "total_matches": 185,
+  "last_run": "2026-07-20 11:32",
+  "jobs_collected": 10,
+  "new_jobs": 2,
   "matches": 1,
   "last_matches": [
     {
-      "title": "AI Technical Business Analyst Product Owner (Pharma AI Platforms)",
-      "company": "Multiplier AI",
-      "url": "https://in.linkedin.com/jobs/view/ai-technical-business-analyst-product-owner-pharma-ai-platforms-at-multiplier-ai-4442586261"
+      "title": "Temenos Triple'A Plus (TAP) Business Analyst",
+      "company": "Capgemini",
+      "url": "https://in.linkedin.com/jobs/view/temenos-triple-a-plus-tap-business-analyst-at-capgemini-4435544820"
     }
   ]
 }
