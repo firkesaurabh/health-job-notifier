@@ -1,15 +1,9 @@
 {
-  "total_runs": 605,
+  "total_runs": 606,
   "total_matches": 186,
-  "last_run": "2026-07-20 13:42",
-  "jobs_collected": 13,
-  "new_jobs": 3,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst I",
-      "company": "Verisk",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-i-at-verisk-4442701582"
-    }
-  ]
+  "last_run": "2026-07-20 15:42",
+  "jobs_collected": 14,
+  "new_jobs": 4,
+  "matches": 0,
+  "last_matches": []
 }
