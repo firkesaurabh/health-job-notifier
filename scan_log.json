@@ -1,15 +1,15 @@
 {
-  "total_runs": 604,
-  "total_matches": 185,
-  "last_run": "2026-07-20 11:32",
-  "jobs_collected": 10,
-  "new_jobs": 2,
+  "total_runs": 605,
+  "total_matches": 186,
+  "last_run": "2026-07-20 13:42",
+  "jobs_collected": 13,
+  "new_jobs": 3,
   "matches": 1,
   "last_matches": [
     {
-      "title": "Temenos Triple'A Plus (TAP) Business Analyst",
-      "company": "Capgemini",
-      "url": "https://in.linkedin.com/jobs/view/temenos-triple-a-plus-tap-business-analyst-at-capgemini-4435544820"
+      "title": "Business Analyst I",
+      "company": "Verisk",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-i-at-verisk-4442701582"
     }
   ]
 }
