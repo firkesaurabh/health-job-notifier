@@ -1,9 +1,30 @@
 {
-  "total_runs": 615,
-  "total_matches": 186,
-  "last_run": "2026-07-21 07:25",
-  "jobs_collected": 10,
-  "new_jobs": 3,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 616,
+  "total_matches": 190,
+  "last_run": "2026-07-21 10:11",
+  "jobs_collected": 13,
+  "new_jobs": 4,
+  "matches": 4,
+  "last_matches": [
+    {
+      "title": "Senior Business Systems Analyst",
+      "company": "Optum India",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-systems-analyst-at-optum-india-4443351058"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Excellenc3: AI Transformation Platform",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-excellenc3-ai-transformation-platform-4440428237"
+    },
+    {
+      "title": "Technical Business Analyst \u2013 U.S Healthcare RCM Applications",
+      "company": "Talentgigs",
+      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-%E2%80%93-u-s-healthcare-rcm-applications-at-talentgigs-4442278948"
+    },
+    {
+      "title": "Healthcare Business Analyst",
+      "company": "Sourcebae",
+      "url": "https://in.linkedin.com/jobs/view/healthcare-business-analyst-at-sourcebae-4443313821"
+    }
+  ]
 }
