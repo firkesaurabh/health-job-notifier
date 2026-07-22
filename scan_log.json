@@ -1,20 +1,9 @@
 {
-  "total_runs": 626,
+  "total_runs": 627,
   "total_matches": 196,
-  "last_run": "2026-07-22 04:55",
-  "jobs_collected": 17,
-  "new_jobs": 2,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Technical Business Analyst \u2013 U.S Healthcare RCM Applications",
-      "company": "Talentgigs",
-      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-%E2%80%93-u-s-healthcare-rcm-applications-at-talentgigs-4442963405"
-    },
-    {
-      "title": "Business Process Analyst",
-      "company": "Optum India",
-      "url": "https://in.linkedin.com/jobs/view/business-process-analyst-at-optum-india-4442968087"
-    }
-  ]
+  "last_run": "2026-07-22 07:27",
+  "jobs_collected": 0,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
