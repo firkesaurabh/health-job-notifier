@@ -1,15 +1,9 @@
 {
-  "total_runs": 630,
+  "total_runs": 631,
   "total_matches": 199,
-  "last_run": "2026-07-22 14:53",
-  "jobs_collected": 16,
-  "new_jobs": 3,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Manager | Business Analyst",
-      "company": "Macquarie Group",
-      "url": "https://in.linkedin.com/jobs/view/manager-business-analyst-at-macquarie-group-4441040002"
-    }
-  ]
+  "last_run": "2026-07-22 16:11",
+  "jobs_collected": 10,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
