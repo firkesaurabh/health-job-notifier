@@ -1,9 +1,20 @@
 {
-  "total_runs": 627,
-  "total_matches": 196,
-  "last_run": "2026-07-22 07:27",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 628,
+  "total_matches": 198,
+  "last_run": "2026-07-22 10:11",
+  "jobs_collected": 11,
+  "new_jobs": 2,
+  "matches": 2,
+  "last_matches": [
+    {
+      "title": "Sr. Business Analyst(Travel Insurance Domain)",
+      "company": "Chubb",
+      "url": "https://in.linkedin.com/jobs/view/sr-business-analyst-travel-insurance-domain-at-chubb-4443751625"
+    },
+    {
+      "title": "Senior Business Analyst-- Finance/Actuary",
+      "company": "Digit Insurance",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-finance-actuary-at-digit-insurance-4443757698"
+    }
+  ]
 }
