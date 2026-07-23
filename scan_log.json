@@ -1,9 +1,15 @@
 {
-  "total_runs": 640,
-  "total_matches": 201,
-  "last_run": "2026-07-23 08:06",
-  "jobs_collected": 14,
-  "new_jobs": 6,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 641,
+  "total_matches": 202,
+  "last_run": "2026-07-23 10:56",
+  "jobs_collected": 18,
+  "new_jobs": 4,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Healthcare Business Analyst",
+      "company": "Sourcebae",
+      "url": "https://in.linkedin.com/jobs/view/healthcare-business-analyst-at-sourcebae-4444417160"
+    }
+  ]
 }
