@@ -1,20 +1,9 @@
 {
-  "total_runs": 639,
+  "total_runs": 640,
   "total_matches": 201,
-  "last_run": "2026-07-23 05:12",
-  "jobs_collected": 10,
-  "new_jobs": 2,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Technical Business Analyst \u2013 U.S Healthcare RCM Applications",
-      "company": "Talentgigs",
-      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-%E2%80%93-u-s-healthcare-rcm-applications-at-talentgigs-4443482742"
-    },
-    {
-      "title": "Lead Business Analyst",
-      "company": "Takeda",
-      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-at-takeda-4443476828"
-    }
-  ]
+  "last_run": "2026-07-23 08:06",
+  "jobs_collected": 14,
+  "new_jobs": 6,
+  "matches": 0,
+  "last_matches": []
 }
