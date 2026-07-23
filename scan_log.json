@@ -1,9 +1,15 @@
 {
-  "total_runs": 642,
-  "total_matches": 202,
-  "last_run": "2026-07-23 12:18",
-  "jobs_collected": 10,
+  "total_runs": 643,
+  "total_matches": 203,
+  "last_run": "2026-07-23 14:59",
+  "jobs_collected": 13,
   "new_jobs": 1,
-  "matches": 0,
-  "last_matches": []
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst II",
+      "company": "Vertafore",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-ii-at-vertafore-4443867714"
+    }
+  ]
 }
