@@ -1,9 +1,15 @@
 {
-  "total_runs": 654,
-  "total_matches": 204,
-  "last_run": "2026-07-24 12:10",
-  "jobs_collected": 17,
+  "total_runs": 655,
+  "total_matches": 205,
+  "last_run": "2026-07-24 14:41",
+  "jobs_collected": 15,
   "new_jobs": 3,
-  "matches": 0,
-  "last_matches": []
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Senior Business Analyst",
+      "company": "ICON plc",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-icon-plc-4444357065"
+    }
+  ]
 }
