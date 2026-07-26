@@ -1,9 +1,15 @@
 {
-  "total_runs": 681,
-  "total_matches": 207,
-  "last_run": "2026-07-26 12:51",
-  "jobs_collected": 10,
-  "new_jobs": 1,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 682,
+  "total_matches": 208,
+  "last_run": "2026-07-26 14:21",
+  "jobs_collected": 22,
+  "new_jobs": 3,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Manager Tax Technology Business Analyst",
+      "company": "Macquarie Group",
+      "url": "https://in.linkedin.com/jobs/view/manager-tax-technology-business-analyst-at-macquarie-group-4406490976"
+    }
+  ]
 }
