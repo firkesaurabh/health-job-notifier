@@ -1,9 +1,15 @@
 {
-  "total_runs": 703,
-  "total_matches": 209,
-  "last_run": "2026-07-28 07:34",
-  "jobs_collected": 0,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 704,
+  "total_matches": 210,
+  "last_run": "2026-07-28 10:19",
+  "jobs_collected": 10,
+  "new_jobs": 2,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Takeda",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-takeda-4445455141"
+    }
+  ]
 }
