@@ -1,15 +1,9 @@
 {
-  "total_runs": 736,
+  "total_runs": 737,
   "total_matches": 217,
-  "last_run": "2026-07-30 23:51",
-  "jobs_collected": 20,
-  "new_jobs": 5,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst Consultant - TOPS Program Lead - Lean Six Sigma",
-      "company": "Optum India",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-consultant-tops-program-lead-lean-six-sigma-at-optum-india-4447096751"
-    }
-  ]
+  "last_run": "2026-07-31 01:26",
+  "jobs_collected": 10,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
