@@ -1,15 +1,9 @@
 {
-  "total_runs": 753,
+  "total_runs": 754,
   "total_matches": 219,
-  "last_run": "2026-08-01 11:09",
-  "jobs_collected": 21,
-  "new_jobs": 3,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst- Life Sciences/Pharmaceutical consulting",
-      "company": "COREDATA CONSULTANCY",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-life-sciences-pharmaceutical-consulting-at-coredata-consultancy-4447446161"
-    }
-  ]
+  "last_run": "2026-08-01 12:49",
+  "jobs_collected": 20,
+  "new_jobs": 9,
+  "matches": 0,
+  "last_matches": []
 }
