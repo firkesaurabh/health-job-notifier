@@ -1,9 +1,15 @@
 {
-  "total_runs": 754,
-  "total_matches": 219,
-  "last_run": "2026-08-01 12:49",
-  "jobs_collected": 20,
-  "new_jobs": 9,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 755,
+  "total_matches": 220,
+  "last_run": "2026-08-01 14:19",
+  "jobs_collected": 19,
+  "new_jobs": 2,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "hackajob",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-hackajob-4447424461"
+    }
+  ]
 }
