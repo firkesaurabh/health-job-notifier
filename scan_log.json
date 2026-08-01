@@ -1,15 +1,9 @@
 {
-  "total_runs": 756,
+  "total_runs": 757,
   "total_matches": 221,
-  "last_run": "2026-08-01 15:50",
-  "jobs_collected": 38,
-  "new_jobs": 16,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Product Analyst",
-      "company": "Optum India",
-      "url": "https://in.linkedin.com/jobs/view/senior-product-analyst-at-optum-india-4447584691"
-    }
-  ]
+  "last_run": "2026-08-01 16:44",
+  "jobs_collected": 10,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
