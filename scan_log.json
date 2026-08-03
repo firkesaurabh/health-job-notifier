@@ -1,20 +1,9 @@
 {
-  "total_runs": 782,
+  "total_runs": 783,
   "total_matches": 225,
-  "last_run": "2026-08-03 12:11",
-  "jobs_collected": 24,
-  "new_jobs": 11,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Business Analyst, Manager",
-      "company": "Charles Schwab India",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-manager-at-charles-schwab-india-4448189006"
-    },
-    {
-      "title": "Salesforce Business Analyst",
-      "company": "Cloud Peritus",
-      "url": "https://in.linkedin.com/jobs/view/salesforce-business-analyst-at-cloud-peritus-4447920088"
-    }
-  ]
+  "last_run": "2026-08-03 15:34",
+  "jobs_collected": 20,
+  "new_jobs": 14,
+  "matches": 0,
+  "last_matches": []
 }
