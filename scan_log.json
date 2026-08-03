@@ -1,15 +1,9 @@
 {
-  "total_runs": 780,
+  "total_runs": 781,
   "total_matches": 223,
-  "last_run": "2026-08-03 05:26",
-  "jobs_collected": 14,
-  "new_jobs": 4,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "RedQubes Innovation Private Limited",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-redqubes-innovation-private-limited-4448123535"
-    }
-  ]
+  "last_run": "2026-08-03 08:56",
+  "jobs_collected": 27,
+  "new_jobs": 20,
+  "matches": 0,
+  "last_matches": []
 }
