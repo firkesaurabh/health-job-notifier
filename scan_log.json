@@ -1,15 +1,9 @@
 {
-  "total_runs": 803,
+  "total_runs": 804,
   "total_matches": 231,
-  "last_run": "2026-08-05 07:29",
-  "jobs_collected": 10,
-  "new_jobs": 4,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "Flexiple",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-flexiple-4447362480"
-    }
-  ]
+  "last_run": "2026-08-05 10:21",
+  "jobs_collected": 20,
+  "new_jobs": 9,
+  "matches": 0,
+  "last_matches": []
 }
