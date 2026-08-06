@@ -1,9 +1,15 @@
 {
-  "total_runs": 813,
-  "total_matches": 234,
-  "last_run": "2026-08-06 04:53",
-  "jobs_collected": 45,
-  "new_jobs": 10,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 814,
+  "total_matches": 235,
+  "last_run": "2026-08-06 07:30",
+  "jobs_collected": 43,
+  "new_jobs": 20,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "RemitBee\u2122",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-remitbee%E2%84%A2-4448959855"
+    }
+  ]
 }
