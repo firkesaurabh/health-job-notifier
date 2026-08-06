@@ -1,9 +1,15 @@
 {
-  "total_runs": 815,
-  "total_matches": 235,
-  "last_run": "2026-08-06 10:23",
-  "jobs_collected": 45,
-  "new_jobs": 7,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 816,
+  "total_matches": 236,
+  "last_run": "2026-08-06 12:49",
+  "jobs_collected": 46,
+  "new_jobs": 9,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Optum",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-optum-4449733178"
+    }
+  ]
 }
