@@ -1,15 +1,9 @@
 {
-  "total_runs": 819,
+  "total_runs": 820,
   "total_matches": 239,
-  "last_run": "2026-08-07 01:58",
+  "last_run": "2026-08-07 04:23",
   "jobs_collected": 40,
-  "new_jobs": 3,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Business Analyst II",
-      "company": "Oceanwide (an Insurity company)",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-ii-at-oceanwide-an-insurity-company-4448487491"
-    }
-  ]
+  "new_jobs": 2,
+  "matches": 0,
+  "last_matches": []
 }
