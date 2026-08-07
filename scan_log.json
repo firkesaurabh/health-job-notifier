@@ -1,20 +1,15 @@
 {
-  "total_runs": 818,
-  "total_matches": 238,
-  "last_run": "2026-08-06 23:47",
-  "jobs_collected": 42,
-  "new_jobs": 12,
-  "matches": 2,
+  "total_runs": 819,
+  "total_matches": 239,
+  "last_run": "2026-08-07 01:58",
+  "jobs_collected": 40,
+  "new_jobs": 3,
+  "matches": 1,
   "last_matches": [
     {
-      "title": "Senior Technology Business Analyst",
-      "company": "Conduent",
-      "url": "https://in.linkedin.com/jobs/view/senior-technology-business-analyst-at-conduent-4450618143"
-    },
-    {
-      "title": "Sr. Business Analyst(Travel Insurance Domain)",
-      "company": "Chubb",
-      "url": "https://in.linkedin.com/jobs/view/sr-business-analyst-travel-insurance-domain-at-chubb-4450297769"
+      "title": "Senior Business Analyst II",
+      "company": "Oceanwide (an Insurity company)",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-ii-at-oceanwide-an-insurity-company-4448487491"
     }
   ]
 }
