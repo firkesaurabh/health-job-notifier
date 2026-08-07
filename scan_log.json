@@ -1,15 +1,9 @@
 {
-  "total_runs": 822,
+  "total_runs": 823,
   "total_matches": 240,
-  "last_run": "2026-08-07 08:04",
-  "jobs_collected": 43,
-  "new_jobs": 5,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Guidewire Business Analyst",
-      "company": "ValueMomentum",
-      "url": "https://in.linkedin.com/jobs/view/guidewire-business-analyst-at-valuemomentum-4450083330"
-    }
-  ]
+  "last_run": "2026-08-07 09:47",
+  "jobs_collected": 42,
+  "new_jobs": 7,
+  "matches": 0,
+  "last_matches": []
 }
