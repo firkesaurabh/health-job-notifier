@@ -1,20 +1,9 @@
 {
-  "total_runs": 830,
+  "total_runs": 831,
   "total_matches": 243,
-  "last_run": "2026-08-07 17:38",
-  "jobs_collected": 40,
-  "new_jobs": 5,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Senior Business Analyst- ServiceNow Artificial Intelligence",
-      "company": "Takeda",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-servicenow-artificial-intelligence-at-takeda-4402420596"
-    },
-    {
-      "title": "Senior Business Analyst",
-      "company": "Droisys",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-droisys-4450338761"
-    }
-  ]
+  "last_run": "2026-08-07 18:36",
+  "jobs_collected": 41,
+  "new_jobs": 1,
+  "matches": 0,
+  "last_matches": []
 }
