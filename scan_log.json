@@ -1,9 +1,15 @@
 {
-  "total_runs": 845,
-  "total_matches": 243,
-  "last_run": "2026-08-08 10:19",
-  "jobs_collected": 42,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 846,
+  "total_matches": 244,
+  "last_run": "2026-08-08 11:18",
+  "jobs_collected": 47,
+  "new_jobs": 16,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Embedded Business Analyst",
+      "company": "Carrier",
+      "url": "https://in.linkedin.com/jobs/view/embedded-business-analyst-at-carrier-4449222909"
+    }
+  ]
 }
