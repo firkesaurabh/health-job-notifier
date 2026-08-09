@@ -1,9 +1,15 @@
 {
-  "total_runs": 858,
-  "total_matches": 245,
-  "last_run": "2026-08-08 23:16",
-  "jobs_collected": 48,
-  "new_jobs": 4,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 859,
+  "total_matches": 246,
+  "last_run": "2026-08-09 00:44",
+  "jobs_collected": 47,
+  "new_jobs": 5,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "SFCC Business Analyst",
+      "company": "Dentsu Global Services",
+      "url": "https://in.linkedin.com/jobs/view/sfcc-business-analyst-at-dentsu-global-services-4450598317"
+    }
+  ]
 }
