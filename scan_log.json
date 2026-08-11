@@ -1,15 +1,20 @@
 {
-  "total_runs": 904,
-  "total_matches": 247,
-  "last_run": "2026-08-11 08:01",
-  "jobs_collected": 45,
-  "new_jobs": 6,
-  "matches": 1,
+  "total_runs": 905,
+  "total_matches": 249,
+  "last_run": "2026-08-11 09:47",
+  "jobs_collected": 47,
+  "new_jobs": 11,
+  "matches": 2,
   "last_matches": [
     {
+      "title": "- Reporting, SQL - Sr Business Analyst - GR - 40207-74077-1 - JR201921",
+      "company": "Carelon Global Solutions India",
+      "url": "https://in.linkedin.com/jobs/view/reporting-sql-sr-business-analyst-gr-40207-74077-1-jr201921-at-carelon-global-solutions-india-4452419656"
+    },
+    {
       "title": "Business Analyst",
-      "company": "FetchJobs.co",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-fetchjobs-co-4452197823"
+      "company": "Optum India",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-optum-india-4451673052"
     }
   ]
 }
