@@ -1,15 +1,9 @@
 {
-  "total_runs": 907,
+  "total_runs": 908,
   "total_matches": 250,
-  "last_run": "2026-08-11 11:36",
-  "jobs_collected": 46,
-  "new_jobs": 15,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Sr. Business Analyst - Change Management",
-      "company": "Invesco",
-      "url": "https://in.linkedin.com/jobs/view/sr-business-analyst-change-management-at-invesco-4442701334"
-    }
-  ]
+  "last_run": "2026-08-11 12:36",
+  "jobs_collected": 47,
+  "new_jobs": 7,
+  "matches": 0,
+  "last_matches": []
 }
