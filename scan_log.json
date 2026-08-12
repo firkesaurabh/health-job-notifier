@@ -1,15 +1,9 @@
 {
-  "total_runs": 928,
+  "total_runs": 929,
   "total_matches": 253,
-  "last_run": "2026-08-12 14:11",
-  "jobs_collected": 43,
-  "new_jobs": 14,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst, Insurance Focus (P&C and Claims)",
-      "company": "Saama",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-insurance-focus-p-c-and-claims-at-saama-4450149736"
-    }
-  ]
+  "last_run": "2026-08-12 15:47",
+  "jobs_collected": 39,
+  "new_jobs": 3,
+  "matches": 0,
+  "last_matches": []
 }
