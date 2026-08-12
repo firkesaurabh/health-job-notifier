@@ -1,9 +1,15 @@
 {
-  "total_runs": 930,
-  "total_matches": 253,
-  "last_run": "2026-08-12 16:44",
-  "jobs_collected": 39,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 931,
+  "total_matches": 254,
+  "last_run": "2026-08-12 17:48",
+  "jobs_collected": 42,
+  "new_jobs": 9,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Senior Business Analyst",
+      "company": "Sikich India",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-sikich-india-4450152762"
+    }
+  ]
 }
