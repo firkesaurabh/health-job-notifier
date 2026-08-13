@@ -1,9 +1,15 @@
 {
-  "total_runs": 944,
-  "total_matches": 255,
-  "last_run": "2026-08-13 11:37",
-  "jobs_collected": 45,
-  "new_jobs": 10,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 945,
+  "total_matches": 256,
+  "last_run": "2026-08-13 12:40",
+  "jobs_collected": 47,
+  "new_jobs": 21,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Senior Business Analyst-ServiceNow Employee Center/UX/Mobile",
+      "company": "Takeda",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-servicenow-employee-center-ux-mobile-at-takeda-4450461205"
+    }
+  ]
 }
