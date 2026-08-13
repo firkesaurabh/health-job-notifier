@@ -1,20 +1,15 @@
 {
-  "total_runs": 946,
-  "total_matches": 258,
-  "last_run": "2026-08-13 14:13",
-  "jobs_collected": 50,
-  "new_jobs": 25,
-  "matches": 2,
+  "total_runs": 947,
+  "total_matches": 259,
+  "last_run": "2026-08-13 15:46",
+  "jobs_collected": 46,
+  "new_jobs": 9,
+  "matches": 1,
   "last_matches": [
     {
       "title": "Business Analyst",
-      "company": "Cohere Health",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-cohere-health-4454032529"
-    },
-    {
-      "title": "Senior Product Analyst",
-      "company": "Alegeus",
-      "url": "https://in.linkedin.com/jobs/view/senior-product-analyst-at-alegeus-4453167161"
+      "company": "Simplify Healthcare",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-simplify-healthcare-4454047510"
     }
   ]
 }
