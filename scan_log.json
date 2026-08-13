@@ -1,15 +1,20 @@
 {
-  "total_runs": 945,
-  "total_matches": 256,
-  "last_run": "2026-08-13 12:40",
-  "jobs_collected": 47,
-  "new_jobs": 21,
-  "matches": 1,
+  "total_runs": 946,
+  "total_matches": 258,
+  "last_run": "2026-08-13 14:13",
+  "jobs_collected": 50,
+  "new_jobs": 25,
+  "matches": 2,
   "last_matches": [
     {
-      "title": "Senior Business Analyst-ServiceNow Employee Center/UX/Mobile",
-      "company": "Takeda",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-servicenow-employee-center-ux-mobile-at-takeda-4450461205"
+      "title": "Business Analyst",
+      "company": "Cohere Health",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-cohere-health-4454032529"
+    },
+    {
+      "title": "Senior Product Analyst",
+      "company": "Alegeus",
+      "url": "https://in.linkedin.com/jobs/view/senior-product-analyst-at-alegeus-4453167161"
     }
   ]
 }
