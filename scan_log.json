@@ -1,9 +1,15 @@
 {
-  "total_runs": 971,
-  "total_matches": 265,
-  "last_run": "2026-08-14 20:20",
-  "jobs_collected": 40,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 972,
+  "total_matches": 266,
+  "last_run": "2026-08-14 21:14",
+  "jobs_collected": 41,
+  "new_jobs": 2,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst, Integrations & Products",
+      "company": "APEXX Global",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-integrations-products-at-apexx-global-4454589361"
+    }
+  ]
 }
