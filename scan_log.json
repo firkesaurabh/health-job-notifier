@@ -1,15 +1,15 @@
 {
-  "total_runs": 964,
-  "total_matches": 261,
-  "last_run": "2026-08-14 12:35",
-  "jobs_collected": 39,
-  "new_jobs": 7,
+  "total_runs": 965,
+  "total_matches": 262,
+  "last_run": "2026-08-14 14:07",
+  "jobs_collected": 42,
+  "new_jobs": 8,
   "matches": 1,
   "last_matches": [
     {
-      "title": "Business Analyst",
-      "company": "APEXX Global",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-apexx-global-4451203781"
+      "title": "Product Manager / Business Analyst \u2013 Hospital Domain",
+      "company": "India Health Link",
+      "url": "https://in.linkedin.com/jobs/view/product-manager-business-analyst-%E2%80%93-hospital-domain-at-india-health-link-4453571451"
     }
   ]
 }
