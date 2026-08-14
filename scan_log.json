@@ -1,15 +1,20 @@
 {
-  "total_runs": 965,
-  "total_matches": 262,
-  "last_run": "2026-08-14 14:07",
-  "jobs_collected": 42,
-  "new_jobs": 8,
-  "matches": 1,
+  "total_runs": 966,
+  "total_matches": 264,
+  "last_run": "2026-08-14 15:40",
+  "jobs_collected": 44,
+  "new_jobs": 5,
+  "matches": 2,
   "last_matches": [
     {
-      "title": "Product Manager / Business Analyst \u2013 Hospital Domain",
-      "company": "India Health Link",
-      "url": "https://in.linkedin.com/jobs/view/product-manager-business-analyst-%E2%80%93-hospital-domain-at-india-health-link-4453571451"
+      "title": "Technical Business Analyst, AVP",
+      "company": "Deutsche Bank",
+      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-avp-at-deutsche-bank-4454079462"
+    },
+    {
+      "title": "Sr Business Analyst \u2013 ServiceNow",
+      "company": "iBeris Software Solutions",
+      "url": "https://in.linkedin.com/jobs/view/sr-business-analyst-%E2%80%93-servicenow-at-iberis-software-solutions-4453269209"
     }
   ]
 }
