@@ -1,9 +1,15 @@
 {
-  "total_runs": 963,
-  "total_matches": 260,
-  "last_run": "2026-08-14 11:35",
-  "jobs_collected": 36,
-  "new_jobs": 3,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 964,
+  "total_matches": 261,
+  "last_run": "2026-08-14 12:35",
+  "jobs_collected": 39,
+  "new_jobs": 7,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "APEXX Global",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-apexx-global-4451203781"
+    }
+  ]
 }
