@@ -1,9 +1,15 @@
 {
-  "total_runs": 967,
-  "total_matches": 264,
-  "last_run": "2026-08-14 16:38",
-  "jobs_collected": 42,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 968,
+  "total_matches": 265,
+  "last_run": "2026-08-14 17:43",
+  "jobs_collected": 43,
+  "new_jobs": 4,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "QA Business Analyst",
+      "company": "Verisk",
+      "url": "https://in.linkedin.com/jobs/view/qa-business-analyst-at-verisk-4454580307"
+    }
+  ]
 }
