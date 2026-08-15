@@ -1,9 +1,15 @@
 {
-  "total_runs": 974,
-  "total_matches": 266,
-  "last_run": "2026-08-14 23:10",
-  "jobs_collected": 42,
-  "new_jobs": 7,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 975,
+  "total_matches": 267,
+  "last_run": "2026-08-15 00:31",
+  "jobs_collected": 43,
+  "new_jobs": 3,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst in Gurgaon",
+      "company": "Benepik",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-in-gurgaon-at-benepik-4454821788"
+    }
+  ]
 }
