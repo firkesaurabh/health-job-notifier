@@ -1,20 +1,9 @@
 {
-  "total_runs": 1035,
+  "total_runs": 1036,
   "total_matches": 274,
-  "last_run": "2026-08-17 15:14",
-  "jobs_collected": 35,
-  "new_jobs": 10,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Business Analyst II",
-      "company": "Vertafore",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-ii-at-vertafore-4454276799"
-    },
-    {
-      "title": "Senior Business Analyst - Commissions/Varicent, Alteryx, SQL",
-      "company": "Thomson Reuters",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-commissions-varicent-alteryx-sql-at-thomson-reuters-4454272612"
-    }
-  ]
+  "last_run": "2026-08-17 16:13",
+  "jobs_collected": 42,
+  "new_jobs": 1,
+  "matches": 0,
+  "last_matches": []
 }
