@@ -1,15 +1,9 @@
 {
-  "total_runs": 1040,
+  "total_runs": 1041,
   "total_matches": 275,
-  "last_run": "2026-08-17 20:13",
-  "jobs_collected": 44,
-  "new_jobs": 10,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst - System Ticketing Platform",
-      "company": "Ventra Health",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-system-ticketing-platform-at-ventra-health-4454412107"
-    }
-  ]
+  "last_run": "2026-08-17 21:14",
+  "jobs_collected": 35,
+  "new_jobs": 1,
+  "matches": 0,
+  "last_matches": []
 }
