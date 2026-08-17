@@ -1,15 +1,9 @@
 {
-  "total_runs": 1029,
+  "total_runs": 1030,
   "total_matches": 272,
-  "last_run": "2026-08-17 09:27",
+  "last_run": "2026-08-17 10:19",
   "jobs_collected": 20,
-  "new_jobs": 7,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst \u2013 Property & Casualty Insurance (Advanced SQL)",
-      "company": "Coforge",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-property-casualty-insurance-advanced-sql-at-coforge-4452235336"
-    }
-  ]
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
