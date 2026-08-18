@@ -1,15 +1,9 @@
 {
-  "total_runs": 1051,
+  "total_runs": 1052,
   "total_matches": 277,
-  "last_run": "2026-08-18 08:21",
-  "jobs_collected": 42,
+  "last_run": "2026-08-18 09:20",
+  "jobs_collected": 43,
   "new_jobs": 4,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Business Analyst (Supply Chain)",
-      "company": "TVS Next",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-supply-chain-at-tvs-next-4454493127"
-    }
-  ]
+  "matches": 0,
+  "last_matches": []
 }
