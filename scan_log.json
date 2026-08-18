@@ -1,9 +1,15 @@
 {
-  "total_runs": 1054,
-  "total_matches": 277,
-  "last_run": "2026-08-18 11:15",
-  "jobs_collected": 41,
-  "new_jobs": 6,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1055,
+  "total_matches": 278,
+  "last_run": "2026-08-18 12:19",
+  "jobs_collected": 43,
+  "new_jobs": 7,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Senior Business Analyst",
+      "company": "Meditab India",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-meditab-india-4452572844"
+    }
+  ]
 }
