@@ -1,25 +1,9 @@
 {
-  "total_runs": 1073,
+  "total_runs": 1074,
   "total_matches": 283,
-  "last_run": "2026-08-19 07:28",
-  "jobs_collected": 44,
-  "new_jobs": 4,
-  "matches": 3,
-  "last_matches": [
-    {
-      "title": "Senior Business Analyst (Life Insurance)",
-      "company": "Peak3 (formerly ZA Tech)",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-life-insurance-at-peak3-formerly-za-tech-4454947760"
-    },
-    {
-      "title": "Senior Business Analyst",
-      "company": "TVS Next",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-tvs-next-4454753447"
-    },
-    {
-      "title": "Japanese Bilingual Business Analyst",
-      "company": "Guidewire Software",
-      "url": "https://in.linkedin.com/jobs/view/japanese-bilingual-business-analyst-at-guidewire-software-4456156137"
-    }
-  ]
+  "last_run": "2026-08-19 08:21",
+  "jobs_collected": 42,
+  "new_jobs": 1,
+  "matches": 0,
+  "last_matches": []
 }
