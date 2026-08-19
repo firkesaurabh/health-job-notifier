@@ -1,15 +1,9 @@
 {
-  "total_runs": 1068,
+  "total_runs": 1069,
   "total_matches": 279,
-  "last_run": "2026-08-19 02:11",
+  "last_run": "2026-08-19 03:36",
   "jobs_collected": 39,
-  "new_jobs": 1,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst - RPA BA Job",
-      "company": "YASH Technologies Middle East",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-rpa-ba-job-at-yash-technologies-middle-east-4452867353"
-    }
-  ]
+  "new_jobs": 2,
+  "matches": 0,
+  "last_matches": []
 }
