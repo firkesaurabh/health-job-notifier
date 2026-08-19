@@ -1,9 +1,15 @@
 {
-  "total_runs": 1071,
-  "total_matches": 279,
-  "last_run": "2026-08-19 05:19",
-  "jobs_collected": 40,
-  "new_jobs": 1,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1072,
+  "total_matches": 280,
+  "last_run": "2026-08-19 06:22",
+  "jobs_collected": 32,
+  "new_jobs": 3,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst (Life Insurance)",
+      "company": "Peak3 (formerly ZA Tech)",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-life-insurance-at-peak3-formerly-za-tech-4454947760"
+    }
+  ]
 }
