@@ -1,9 +1,15 @@
 {
-  "total_runs": 1134,
-  "total_matches": 293,
-  "last_run": "2026-08-21 22:11",
-  "jobs_collected": 41,
+  "total_runs": 1135,
+  "total_matches": 294,
+  "last_run": "2026-08-21 23:12",
+  "jobs_collected": 46,
   "new_jobs": 1,
-  "matches": 0,
-  "last_matches": []
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Optum India",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-optum-india-4457505701"
+    }
+  ]
 }
