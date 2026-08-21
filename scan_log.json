@@ -1,9 +1,15 @@
 {
-  "total_runs": 1124,
-  "total_matches": 291,
-  "last_run": "2026-08-21 12:21",
+  "total_runs": 1125,
+  "total_matches": 292,
+  "last_run": "2026-08-21 13:36",
   "jobs_collected": 43,
-  "new_jobs": 4,
-  "matches": 0,
-  "last_matches": []
+  "new_jobs": 9,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "HRIS Business Analyst",
+      "company": "Accelleron",
+      "url": "https://in.linkedin.com/jobs/view/hris-business-analyst-at-accelleron-4446731307"
+    }
+  ]
 }
