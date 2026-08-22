@@ -1,15 +1,15 @@
 {
-  "total_runs": 1135,
-  "total_matches": 294,
-  "last_run": "2026-08-21 23:12",
-  "jobs_collected": 46,
-  "new_jobs": 1,
+  "total_runs": 1136,
+  "total_matches": 295,
+  "last_run": "2026-08-22 00:30",
+  "jobs_collected": 44,
+  "new_jobs": 2,
   "matches": 1,
   "last_matches": [
     {
-      "title": "Business Analyst",
-      "company": "Optum India",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-optum-india-4457505701"
+      "title": "Technical Business Analyst",
+      "company": "Kaderabotim.bg",
+      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-4457536527"
     }
   ]
 }
