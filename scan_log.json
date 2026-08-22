@@ -1,9 +1,15 @@
 {
-  "total_runs": 1157,
-  "total_matches": 297,
-  "last_run": "2026-08-22 22:09",
+  "total_runs": 1158,
+  "total_matches": 298,
+  "last_run": "2026-08-22 23:09",
   "jobs_collected": 42,
-  "new_jobs": 2,
-  "matches": 0,
-  "last_matches": []
+  "new_jobs": 1,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Sr Business Analyst \u2013 ServiceNow",
+      "company": "iBeris Software Solutions",
+      "url": "https://in.linkedin.com/jobs/view/sr-business-analyst-%E2%80%93-servicenow-at-iberis-software-solutions-4456696089"
+    }
+  ]
 }
