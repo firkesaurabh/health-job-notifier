@@ -1,15 +1,9 @@
 {
-  "total_runs": 1150,
+  "total_runs": 1151,
   "total_matches": 297,
-  "last_run": "2026-08-22 15:09",
-  "jobs_collected": 44,
-  "new_jobs": 8,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Information Technology Business Analyst",
-      "company": "Talentgigs",
-      "url": "https://in.linkedin.com/jobs/view/information-technology-business-analyst-at-talentgigs-4456671076"
-    }
-  ]
+  "last_run": "2026-08-22 16:10",
+  "jobs_collected": 43,
+  "new_jobs": 9,
+  "matches": 0,
+  "last_matches": []
 }
