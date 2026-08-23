@@ -1,9 +1,15 @@
 {
-  "total_runs": 1175,
-  "total_matches": 299,
-  "last_run": "2026-08-23 17:11",
-  "jobs_collected": 46,
-  "new_jobs": 5,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1176,
+  "total_matches": 300,
+  "last_run": "2026-08-23 18:11",
+  "jobs_collected": 45,
+  "new_jobs": 4,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Staff Business Systems Analyst (Salesforce)",
+      "company": "Zscaler",
+      "url": "https://in.linkedin.com/jobs/view/staff-business-systems-analyst-salesforce-at-zscaler-4430905872"
+    }
+  ]
 }
