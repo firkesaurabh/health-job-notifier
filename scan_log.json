@@ -1,9 +1,15 @@
 {
-  "total_runs": 1164,
-  "total_matches": 298,
-  "last_run": "2026-08-23 06:19",
-  "jobs_collected": 41,
-  "new_jobs": 1,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1165,
+  "total_matches": 299,
+  "last_run": "2026-08-23 07:24",
+  "jobs_collected": 43,
+  "new_jobs": 4,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Sr. Business Analyst- Travel/Airline (REMOTE & PART-TIME)",
+      "company": "Plumlogix (MBE Salesforce Partner)",
+      "url": "https://in.linkedin.com/jobs/view/sr-business-analyst-travel-airline-remote-part-time-at-plumlogix-mbe-salesforce-partner-4456632949"
+    }
+  ]
 }
