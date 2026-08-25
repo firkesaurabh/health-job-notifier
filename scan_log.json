@@ -1,15 +1,9 @@
 {
-  "total_runs": 1218,
+  "total_runs": 1219,
   "total_matches": 302,
-  "last_run": "2026-08-25 14:33",
-  "jobs_collected": 43,
-  "new_jobs": 5,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "BNP Paribas",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-bnp-paribas-4458755513"
-    }
-  ]
+  "last_run": "2026-08-25 15:31",
+  "jobs_collected": 49,
+  "new_jobs": 13,
+  "matches": 0,
+  "last_matches": []
 }
