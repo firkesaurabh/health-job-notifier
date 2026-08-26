@@ -1,15 +1,9 @@
 {
-  "total_runs": 1238,
+  "total_runs": 1239,
   "total_matches": 303,
-  "last_run": "2026-08-26 11:19",
-  "jobs_collected": 45,
-  "new_jobs": 13,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst- Regulatory Capital Reporting Change Specialist",
-      "company": "Persistent Systems",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-regulatory-capital-reporting-change-specialist-at-persistent-systems-4457260009"
-    }
-  ]
+  "last_run": "2026-08-26 12:24",
+  "jobs_collected": 47,
+  "new_jobs": 4,
+  "matches": 0,
+  "last_matches": []
 }
