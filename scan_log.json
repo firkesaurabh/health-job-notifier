@@ -1,20 +1,9 @@
 {
-  "total_runs": 1242,
+  "total_runs": 1243,
   "total_matches": 305,
-  "last_run": "2026-08-26 16:08",
-  "jobs_collected": 42,
-  "new_jobs": 5,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "Incubyte",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-incubyte-4457268379"
-    },
-    {
-      "title": "Founder's Office \u2014 Business Analyst & Fundraising Associate",
-      "company": "CareMother by Doto Health",
-      "url": "https://in.linkedin.com/jobs/view/founder-s-office-%E2%80%94-business-analyst-fundraising-associate-at-caremother-by-doto-health-4457229859"
-    }
-  ]
+  "last_run": "2026-08-26 18:46",
+  "jobs_collected": 43,
+  "new_jobs": 10,
+  "matches": 0,
+  "last_matches": []
 }
