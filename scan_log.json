@@ -1,15 +1,30 @@
 {
-  "total_runs": 1245,
-  "total_matches": 306,
-  "last_run": "2026-08-27 02:20",
-  "jobs_collected": 47,
-  "new_jobs": 9,
-  "matches": 1,
+  "total_runs": 1246,
+  "total_matches": 310,
+  "last_run": "2026-08-27 13:13",
+  "jobs_collected": 45,
+  "new_jobs": 28,
+  "matches": 4,
   "last_matches": [
     {
       "title": "Business Analyst",
-      "company": "Optum India",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-optum-india-4459395509"
+      "company": "Takeda",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-takeda-4457753989"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Alegeus",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-alegeus-4459803178"
+    },
+    {
+      "title": "Executive/ Assistant Manager - Technical Business Analyst Regulatory Reporting",
+      "company": "Macquarie Group",
+      "url": "https://in.linkedin.com/jobs/view/executive-assistant-manager-technical-business-analyst-regulatory-reporting-at-macquarie-group-4457757820"
+    },
+    {
+      "title": "Business Functional Analyst (Midrange), AVP",
+      "company": "Deutsche Bank",
+      "url": "https://in.linkedin.com/jobs/view/business-functional-analyst-midrange-avp-at-deutsche-bank-4459355272"
     }
   ]
 }
