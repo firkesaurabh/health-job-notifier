@@ -1,15 +1,9 @@
 {
-  "total_runs": 1251,
+  "total_runs": 1252,
   "total_matches": 317,
-  "last_run": "2026-08-29 09:28",
-  "jobs_collected": 42,
-  "new_jobs": 16,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Insights Business Analyst",
-      "company": "Atlas Copco Group",
-      "url": "https://in.linkedin.com/jobs/view/insights-business-analyst-at-atlas-copco-group-4419073695"
-    }
-  ]
+  "last_run": "2026-08-29 14:45",
+  "jobs_collected": 44,
+  "new_jobs": 22,
+  "matches": 0,
+  "last_matches": []
 }
