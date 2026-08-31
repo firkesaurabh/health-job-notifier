@@ -1,9 +1,15 @@
 {
-  "total_runs": 1263,
-  "total_matches": 320,
-  "last_run": "2026-08-31 03:42",
-  "jobs_collected": 44,
-  "new_jobs": 4,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1264,
+  "total_matches": 321,
+  "last_run": "2026-08-31 10:10",
+  "jobs_collected": 47,
+  "new_jobs": 23,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Founder's Office \u2014 Business Analyst & Fundraising Associate",
+      "company": "CareMother by Doto Health",
+      "url": "https://in.linkedin.com/jobs/view/founder-s-office-%E2%80%94-business-analyst-fundraising-associate-at-caremother-by-doto-health-4459771266"
+    }
+  ]
 }
