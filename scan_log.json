@@ -1,15 +1,9 @@
 {
-  "total_runs": 1272,
+  "total_runs": 1273,
   "total_matches": 325,
-  "last_run": "2026-09-01 22:53",
-  "jobs_collected": 46,
-  "new_jobs": 6,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Technology Business Analyst - Revenue Management",
-      "company": "Sandoz India",
-      "url": "https://in.linkedin.com/jobs/view/senior-technology-business-analyst-revenue-management-at-sandoz-india-4461785056"
-    }
-  ]
+  "last_run": "2026-09-02 00:38",
+  "jobs_collected": 41,
+  "new_jobs": 0,
+  "matches": 0,
+  "last_matches": []
 }
