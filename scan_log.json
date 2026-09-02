@@ -1,9 +1,20 @@
 {
-  "total_runs": 1273,
-  "total_matches": 325,
-  "last_run": "2026-09-02 00:38",
-  "jobs_collected": 41,
-  "new_jobs": 0,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1274,
+  "total_matches": 327,
+  "last_run": "2026-09-02 05:12",
+  "jobs_collected": 43,
+  "new_jobs": 8,
+  "matches": 2,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Optum India",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-optum-india-4460939378"
+    },
+    {
+      "title": "Associate Business Analyst",
+      "company": "Optum India",
+      "url": "https://in.linkedin.com/jobs/view/associate-business-analyst-at-optum-india-4460927471"
+    }
+  ]
 }
