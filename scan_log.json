@@ -1,25 +1,9 @@
 {
-  "total_runs": 1276,
+  "total_runs": 1277,
   "total_matches": 331,
-  "last_run": "2026-09-02 14:47",
-  "jobs_collected": 44,
-  "new_jobs": 16,
-  "matches": 3,
-  "last_matches": [
-    {
-      "title": "Business Analyst - Data",
-      "company": "Cohere Health",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-data-at-cohere-health-4462195484"
-    },
-    {
-      "title": "Senior Technical Business Analyst",
-      "company": "KRM System",
-      "url": "https://in.linkedin.com/jobs/view/senior-technical-business-analyst-at-krm-system-4459933862"
-    },
-    {
-      "title": "Senior Duck Creek Policy Business Analyst",
-      "company": "Aggne",
-      "url": "https://in.linkedin.com/jobs/view/senior-duck-creek-policy-business-analyst-at-aggne-4460974513"
-    }
-  ]
+  "last_run": "2026-09-02 18:12",
+  "jobs_collected": 46,
+  "new_jobs": 12,
+  "matches": 0,
+  "last_matches": []
 }
