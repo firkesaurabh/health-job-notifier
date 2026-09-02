@@ -1,15 +1,25 @@
 {
-  "total_runs": 1275,
-  "total_matches": 328,
-  "last_run": "2026-09-02 10:03",
-  "jobs_collected": 48,
-  "new_jobs": 19,
-  "matches": 1,
+  "total_runs": 1276,
+  "total_matches": 331,
+  "last_run": "2026-09-02 14:47",
+  "jobs_collected": 44,
+  "new_jobs": 16,
+  "matches": 3,
   "last_matches": [
     {
-      "title": "Product Analyst II",
-      "company": "Vertafore",
-      "url": "https://in.linkedin.com/jobs/view/product-analyst-ii-at-vertafore-4460968304"
+      "title": "Business Analyst - Data",
+      "company": "Cohere Health",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-data-at-cohere-health-4462195484"
+    },
+    {
+      "title": "Senior Technical Business Analyst",
+      "company": "KRM System",
+      "url": "https://in.linkedin.com/jobs/view/senior-technical-business-analyst-at-krm-system-4459933862"
+    },
+    {
+      "title": "Senior Duck Creek Policy Business Analyst",
+      "company": "Aggne",
+      "url": "https://in.linkedin.com/jobs/view/senior-duck-creek-policy-business-analyst-at-aggne-4460974513"
     }
   ]
 }
