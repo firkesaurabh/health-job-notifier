@@ -1,15 +1,9 @@
 {
-  "total_runs": 1285,
+  "total_runs": 1286,
   "total_matches": 333,
-  "last_run": "2026-09-03 21:32",
-  "jobs_collected": 41,
-  "new_jobs": 7,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Business Analyst",
-      "company": "Sagility",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-sagility-4462788053"
-    }
-  ]
+  "last_run": "2026-09-03 23:37",
+  "jobs_collected": 47,
+  "new_jobs": 8,
+  "matches": 0,
+  "last_matches": []
 }
