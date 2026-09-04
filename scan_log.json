@@ -1,15 +1,9 @@
 {
-  "total_runs": 1289,
+  "total_runs": 1290,
   "total_matches": 335,
-  "last_run": "2026-09-04 11:49",
-  "jobs_collected": 42,
-  "new_jobs": 15,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Business Analyst - Healthcare - Payer",
-      "company": "Quantiphi",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-healthcare-payer-at-quantiphi-4461124671"
-    }
-  ]
+  "last_run": "2026-09-04 15:16",
+  "jobs_collected": 46,
+  "new_jobs": 23,
+  "matches": 0,
+  "last_matches": []
 }
