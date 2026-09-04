@@ -1,9 +1,15 @@
 {
-  "total_runs": 1287,
-  "total_matches": 333,
-  "last_run": "2026-09-04 01:38",
-  "jobs_collected": 41,
-  "new_jobs": 2,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1288,
+  "total_matches": 334,
+  "last_run": "2026-09-04 06:38",
+  "jobs_collected": 42,
+  "new_jobs": 8,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Claim Business Analyst",
+      "company": "Aptita",
+      "url": "https://in.linkedin.com/jobs/view/claim-business-analyst-at-aptita-4463194595"
+    }
+  ]
 }
