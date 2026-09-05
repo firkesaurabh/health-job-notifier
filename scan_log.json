@@ -1,9 +1,20 @@
 {
-  "total_runs": 1300,
-  "total_matches": 340,
-  "last_run": "2026-09-05 20:47",
-  "jobs_collected": 44,
-  "new_jobs": 9,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1301,
+  "total_matches": 342,
+  "last_run": "2026-09-05 22:25",
+  "jobs_collected": 42,
+  "new_jobs": 6,
+  "matches": 2,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Optum India",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-optum-india-4463770757"
+    },
+    {
+      "title": "Senior Business Analyst",
+      "company": "Moniepoint Group",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-moniepoint-group-4444373055"
+    }
+  ]
 }
