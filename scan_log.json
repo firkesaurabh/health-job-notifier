@@ -1,20 +1,20 @@
 {
-  "total_runs": 1296,
-  "total_matches": 338,
-  "last_run": "2026-09-05 10:59",
-  "jobs_collected": 40,
-  "new_jobs": 17,
+  "total_runs": 1297,
+  "total_matches": 340,
+  "last_run": "2026-09-05 13:40",
+  "jobs_collected": 37,
+  "new_jobs": 16,
   "matches": 2,
   "last_matches": [
     {
-      "title": "Business Systems Analyst \u2013 Sales Planning & Incentive Systems",
-      "company": "Commvault",
-      "url": "https://in.linkedin.com/jobs/view/business-systems-analyst-%E2%80%93-sales-planning-incentive-systems-at-commvault-4443818238"
+      "title": "Business Analyst",
+      "company": "Induct HR Solutions",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-induct-hr-solutions-4462391698"
     },
     {
-      "title": "Lead Business Functional Analyst, VP",
-      "company": "Deutsche Bank",
-      "url": "https://in.linkedin.com/jobs/view/lead-business-functional-analyst-vp-at-deutsche-bank-4463618129"
+      "title": "Business Systems Analyst II",
+      "company": "Greenlight",
+      "url": "https://in.linkedin.com/jobs/view/business-systems-analyst-ii-at-greenlight-4463651979"
     }
   ]
 }
