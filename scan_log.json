@@ -1,15 +1,9 @@
 {
-  "total_runs": 1308,
+  "total_runs": 1309,
   "total_matches": 345,
-  "last_run": "2026-09-06 20:54",
-  "jobs_collected": 41,
-  "new_jobs": 6,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Functional Analyst",
-      "company": "AtkinsR\u00e9alis",
-      "url": "https://in.linkedin.com/jobs/view/functional-analyst-at-atkinsr%C3%A9alis-4459672120"
-    }
-  ]
+  "last_run": "2026-09-06 22:30",
+  "jobs_collected": 43,
+  "new_jobs": 2,
+  "matches": 0,
+  "last_matches": []
 }
