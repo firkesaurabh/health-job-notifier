@@ -1,15 +1,9 @@
 {
-  "total_runs": 1314,
+  "total_runs": 1315,
   "total_matches": 347,
-  "last_run": "2026-09-07 20:13",
-  "jobs_collected": 41,
-  "new_jobs": 10,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Salesforce Functional Analyst",
-      "company": "Persistent Systems",
-      "url": "https://in.linkedin.com/jobs/view/salesforce-functional-analyst-at-persistent-systems-4461884127"
-    }
-  ]
+  "last_run": "2026-09-07 23:06",
+  "jobs_collected": 43,
+  "new_jobs": 13,
+  "matches": 0,
+  "last_matches": []
 }
