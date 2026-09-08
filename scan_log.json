@@ -1,9 +1,15 @@
 {
-  "total_runs": 1318,
-  "total_matches": 348,
-  "last_run": "2026-09-08 11:49",
-  "jobs_collected": 44,
-  "new_jobs": 20,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1319,
+  "total_matches": 349,
+  "last_run": "2026-09-08 15:29",
+  "jobs_collected": 45,
+  "new_jobs": 11,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Sapiens",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-sapiens-4462521649"
+    }
+  ]
 }
