@@ -1,9 +1,15 @@
 {
-  "total_runs": 1326,
-  "total_matches": 351,
-  "last_run": "2026-09-09 18:05",
-  "jobs_collected": 43,
-  "new_jobs": 4,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1327,
+  "total_matches": 352,
+  "last_run": "2026-09-09 21:19",
+  "jobs_collected": 42,
+  "new_jobs": 8,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "JR-204093 Data Business Analyst Senior",
+      "company": "Customertimes",
+      "url": "https://in.linkedin.com/jobs/view/jr-204093-data-business-analyst-senior-at-customertimes-4463872863"
+    }
+  ]
 }
