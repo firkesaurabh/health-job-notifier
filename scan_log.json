@@ -1,15 +1,9 @@
 {
-  "total_runs": 1335,
+  "total_runs": 1336,
   "total_matches": 353,
-  "last_run": "2026-09-10 23:30",
-  "jobs_collected": 43,
-  "new_jobs": 5,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "Incubyte",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-incubyte-4464518246"
-    }
-  ]
+  "last_run": "2026-09-11 01:43",
+  "jobs_collected": 42,
+  "new_jobs": 3,
+  "matches": 0,
+  "last_matches": []
 }
