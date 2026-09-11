@@ -1,15 +1,9 @@
 {
-  "total_runs": 1339,
+  "total_runs": 1340,
   "total_matches": 354,
-  "last_run": "2026-09-11 15:22",
+  "last_run": "2026-09-11 18:49",
   "jobs_collected": 42,
-  "new_jobs": 11,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Business Systems Analyst",
-      "company": "Franklin Templeton",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-systems-analyst-at-franklin-templeton-4466089990"
-    }
-  ]
+  "new_jobs": 5,
+  "matches": 0,
+  "last_matches": []
 }
