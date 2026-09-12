@@ -1,9 +1,15 @@
 {
-  "total_runs": 1344,
-  "total_matches": 354,
-  "last_run": "2026-09-12 06:37",
-  "jobs_collected": 45,
-  "new_jobs": 7,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1345,
+  "total_matches": 355,
+  "last_run": "2026-09-12 11:20",
+  "jobs_collected": 42,
+  "new_jobs": 19,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Product Owner/Business Analyst (Hybrid)",
+      "company": "RX Global",
+      "url": "https://in.linkedin.com/jobs/view/product-owner-business-analyst-hybrid-at-rx-global-4464876954"
+    }
+  ]
 }
