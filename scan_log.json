@@ -1,9 +1,15 @@
 {
-  "total_runs": 1351,
-  "total_matches": 355,
-  "last_run": "2026-09-13 01:40",
-  "jobs_collected": 43,
-  "new_jobs": 2,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1352,
+  "total_matches": 356,
+  "last_run": "2026-09-13 06:53",
+  "jobs_collected": 42,
+  "new_jobs": 11,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "FetchJobs.co",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-fetchjobs-co-4466767062"
+    }
+  ]
 }
