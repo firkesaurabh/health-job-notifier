@@ -1,9 +1,15 @@
 {
-  "total_runs": 1371,
-  "total_matches": 361,
-  "last_run": "2026-09-16 12:54",
-  "jobs_collected": 40,
-  "new_jobs": 12,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1372,
+  "total_matches": 362,
+  "last_run": "2026-09-16 17:21",
+  "jobs_collected": 43,
+  "new_jobs": 15,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Acies",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-acies-4468225254"
+    }
+  ]
 }
