@@ -1,15 +1,9 @@
 {
-  "total_runs": 1384,
+  "total_runs": 1385,
   "total_matches": 368,
-  "last_run": "2026-09-18 15:23",
-  "jobs_collected": 30,
+  "last_run": "2026-09-18 18:42",
+  "jobs_collected": 42,
   "new_jobs": 11,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Lead- Business analyst - GO/JC/4543/2026",
-      "company": "Golden Opportunities",
-      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-go-jc-4543-2026-at-golden-opportunities-4467884145"
-    }
-  ]
+  "matches": 0,
+  "last_matches": []
 }
