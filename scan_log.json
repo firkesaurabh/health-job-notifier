@@ -1,9 +1,20 @@
 {
-  "total_runs": 1398,
-  "total_matches": 369,
-  "last_run": "2026-09-20 12:42",
-  "jobs_collected": 43,
-  "new_jobs": 15,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1399,
+  "total_matches": 371,
+  "last_run": "2026-09-20 16:34",
+  "jobs_collected": 46,
+  "new_jobs": 10,
+  "matches": 2,
+  "last_matches": [
+    {
+      "title": "Senior Technology Business Analyst",
+      "company": "Base Career",
+      "url": "https://in.linkedin.com/jobs/view/senior-technology-business-analyst-at-base-career-4467329821"
+    },
+    {
+      "title": "Lead Business Analyst \u2013 VP",
+      "company": "Base Career",
+      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-%E2%80%93-vp-at-base-career-4467335166"
+    }
+  ]
 }
