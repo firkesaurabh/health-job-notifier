@@ -1,15 +1,9 @@
 {
-  "total_runs": 1404,
+  "total_runs": 1405,
   "total_matches": 372,
-  "last_run": "2026-09-21 07:30",
-  "jobs_collected": 44,
-  "new_jobs": 15,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Technical Business Analyst \u2013 AI & Storybook Delivery",
-      "company": "DATAMTX LLC",
-      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-%E2%80%93-ai-storybook-delivery-at-datamtx-llc-4469852023"
-    }
-  ]
+  "last_run": "2026-09-21 14:37",
+  "jobs_collected": 41,
+  "new_jobs": 30,
+  "matches": 0,
+  "last_matches": []
 }
