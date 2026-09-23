@@ -1,9 +1,15 @@
 {
-  "total_runs": 1414,
-  "total_matches": 377,
-  "last_run": "2026-09-23 02:03",
+  "total_runs": 1415,
+  "total_matches": 378,
+  "last_run": "2026-09-23 08:01",
   "jobs_collected": 41,
-  "new_jobs": 3,
-  "matches": 0,
-  "last_matches": []
+  "new_jobs": 14,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst - Hospital Operations",
+      "company": "2070 Health",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-hospital-operations-at-2070-health-4470682716"
+    }
+  ]
 }
