@@ -1,9 +1,25 @@
 {
-  "total_runs": 1444,
-  "total_matches": 386,
-  "last_run": "2026-09-28 06:02",
-  "jobs_collected": 43,
-  "new_jobs": 17,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1445,
+  "total_matches": 389,
+  "last_run": "2026-09-28 14:38",
+  "jobs_collected": 40,
+  "new_jobs": 25,
+  "matches": 3,
+  "last_matches": [
+    {
+      "title": "Business Analyst - Health Insurance (Fully Remote)",
+      "company": "CoverGo | Insurtech",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-health-insurance-fully-remote-at-covergo-insurtech-4472491437"
+    },
+    {
+      "title": "Business Analyst - Health Insurance (Fully Remote)",
+      "company": "CoverGo | Insurtech",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-health-insurance-fully-remote-at-covergo-insurtech-4472492471"
+    },
+    {
+      "title": "Technical Business Analyst",
+      "company": "HOPS HEALTHCARE",
+      "url": "https://in.linkedin.com/jobs/view/technical-business-analyst-at-hops-healthcare-4470883131"
+    }
+  ]
 }
