@@ -1,9 +1,15 @@
 {
-  "total_runs": 1446,
-  "total_matches": 389,
-  "last_run": "2026-09-28 20:54",
-  "jobs_collected": 44,
-  "new_jobs": 12,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1447,
+  "total_matches": 390,
+  "last_run": "2026-09-29 00:41",
+  "jobs_collected": 41,
+  "new_jobs": 7,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Senior Business Analyst Consultant",
+      "company": "Optum India",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-consultant-at-optum-india-4473023591"
+    }
+  ]
 }
