@@ -1,20 +1,15 @@
 {
-  "total_runs": 1448,
-  "total_matches": 392,
-  "last_run": "2026-09-29 06:20",
-  "jobs_collected": 34,
-  "new_jobs": 8,
-  "matches": 2,
+  "total_runs": 1449,
+  "total_matches": 393,
+  "last_run": "2026-09-29 13:29",
+  "jobs_collected": 41,
+  "new_jobs": 17,
+  "matches": 1,
   "last_matches": [
     {
-      "title": "Business Analyst - Health Insurance (Fully Remote)",
-      "company": "CoverGo | Insurtech",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-health-insurance-fully-remote-at-covergo-insurtech-4471258299"
-    },
-    {
-      "title": "Business Analyst - Health Insurance",
-      "company": "Jobgether",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-health-insurance-at-jobgether-4471246579"
+      "title": "Senior Business Analyst",
+      "company": "iCOVER Services",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-icover-services-4471726465"
     }
   ]
 }
