@@ -1,15 +1,9 @@
 {
-  "total_runs": 1459,
+  "total_runs": 1460,
   "total_matches": 397,
-  "last_run": "2026-10-01 16:45",
-  "jobs_collected": 43,
-  "new_jobs": 16,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Jr Business Analyst ( US Healthcare )",
-      "company": "Autonomize AI",
-      "url": "https://in.linkedin.com/jobs/view/jr-business-analyst-us-healthcare-at-autonomize-ai-4472555493"
-    }
-  ]
+  "last_run": "2026-10-01 21:28",
+  "jobs_collected": 45,
+  "new_jobs": 8,
+  "matches": 0,
+  "last_matches": []
 }
