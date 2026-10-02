@@ -1,9 +1,15 @@
 {
-  "total_runs": 1461,
-  "total_matches": 397,
-  "last_run": "2026-10-02 01:09",
-  "jobs_collected": 45,
-  "new_jobs": 1,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1462,
+  "total_matches": 398,
+  "last_run": "2026-10-02 07:38",
+  "jobs_collected": 42,
+  "new_jobs": 10,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst - US Medical Insurance Domain (Remote from India)",
+      "company": "Thinkgrid Labs",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-us-medical-insurance-domain-remote-from-india-at-thinkgrid-labs-4472877326"
+    }
+  ]
 }
