@@ -1,15 +1,9 @@
 {
-  "total_runs": 1464,
+  "total_runs": 1465,
   "total_matches": 400,
-  "last_run": "2026-10-02 19:37",
-  "jobs_collected": 43,
-  "new_jobs": 20,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Business Analyst",
-      "company": "Moniepoint Group",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-moniepoint-group-4463980965"
-    }
-  ]
+  "last_run": "2026-10-02 23:21",
+  "jobs_collected": 42,
+  "new_jobs": 8,
+  "matches": 0,
+  "last_matches": []
 }
