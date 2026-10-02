@@ -1,15 +1,15 @@
 {
-  "total_runs": 1462,
-  "total_matches": 398,
-  "last_run": "2026-10-02 07:38",
-  "jobs_collected": 42,
-  "new_jobs": 10,
+  "total_runs": 1463,
+  "total_matches": 399,
+  "last_run": "2026-10-02 14:14",
+  "jobs_collected": 45,
+  "new_jobs": 22,
   "matches": 1,
   "last_matches": [
     {
-      "title": "Business Analyst - US Medical Insurance Domain (Remote from India)",
-      "company": "Thinkgrid Labs",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-us-medical-insurance-domain-remote-from-india-at-thinkgrid-labs-4472877326"
+      "title": "Consultant Business Analyst - Calypso",
+      "company": "Societe Generale Global Solution Centre",
+      "url": "https://in.linkedin.com/jobs/view/consultant-business-analyst-calypso-at-societe-generale-global-solution-centre-4474348182"
     }
   ]
 }
