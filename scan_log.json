@@ -1,15 +1,9 @@
 {
-  "total_runs": 1469,
+  "total_runs": 1470,
   "total_matches": 401,
-  "last_run": "2026-10-03 18:23",
-  "jobs_collected": 42,
-  "new_jobs": 4,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "Flex",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-flex-4446446065"
-    }
-  ]
+  "last_run": "2026-10-03 21:52",
+  "jobs_collected": 43,
+  "new_jobs": 12,
+  "matches": 0,
+  "last_matches": []
 }
