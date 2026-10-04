@@ -1,15 +1,9 @@
 {
-  "total_runs": 1474,
+  "total_runs": 1475,
   "total_matches": 404,
-  "last_run": "2026-10-04 17:09",
-  "jobs_collected": 43,
-  "new_jobs": 21,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Lead II - BPM- Business Analyst",
-      "company": "UST",
-      "url": "https://in.linkedin.com/jobs/view/lead-ii-bpm-business-analyst-at-ust-4473499011"
-    }
-  ]
+  "last_run": "2026-10-04 20:33",
+  "jobs_collected": 42,
+  "new_jobs": 11,
+  "matches": 0,
+  "last_matches": []
 }
