@@ -1,15 +1,9 @@
 {
-  "total_runs": 1471,
+  "total_runs": 1472,
   "total_matches": 402,
-  "last_run": "2026-10-04 00:10",
+  "last_run": "2026-10-04 06:28",
   "jobs_collected": 41,
-  "new_jobs": 5,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst \u2013 Strategy, Operations & Digital Transformation",
-      "company": "AA Industries",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-strategy-operations-digital-transformation-at-aa-industries-4473854554"
-    }
-  ]
+  "new_jobs": 3,
+  "matches": 0,
+  "last_matches": []
 }
