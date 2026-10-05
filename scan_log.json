@@ -1,9 +1,25 @@
 {
-  "total_runs": 1478,
-  "total_matches": 404,
-  "last_run": "2026-10-05 09:42",
-  "jobs_collected": 44,
-  "new_jobs": 28,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1479,
+  "total_matches": 407,
+  "last_run": "2026-10-05 18:55",
+  "jobs_collected": 45,
+  "new_jobs": 32,
+  "matches": 3,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Ventra Health",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-ventra-health-4475593739"
+    },
+    {
+      "title": "Business Analyst Experienced",
+      "company": "Ventra Health",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-experienced-at-ventra-health-4474288023"
+    },
+    {
+      "title": "Staff Salesforce Business Analyst",
+      "company": "TriNet",
+      "url": "https://in.linkedin.com/jobs/view/staff-salesforce-business-analyst-at-trinet-4475555882"
+    }
+  ]
 }
