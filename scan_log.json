@@ -1,15 +1,20 @@
 {
-  "total_runs": 1507,
-  "total_matches": 434,
-  "last_run": "2026-10-12 02:53",
-  "jobs_collected": 43,
-  "new_jobs": 8,
-  "matches": 1,
+  "total_runs": 1508,
+  "total_matches": 436,
+  "last_run": "2026-10-12 09:53",
+  "jobs_collected": 45,
+  "new_jobs": 27,
+  "matches": 2,
   "last_matches": [
     {
-      "title": "Senior Business analyst (Part-time, Equity only)",
-      "company": "PD Consulting",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-part-time-equity-only-at-pd-consulting-4477279384"
+      "title": "Business Analyst, TPA",
+      "company": "Gartner",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-tpa-at-gartner-4477516320"
+    },
+    {
+      "title": "Insights Business Analyst",
+      "company": "Atlas Copco Group",
+      "url": "https://in.linkedin.com/jobs/view/insights-business-analyst-at-atlas-copco-group-4477509935"
     }
   ]
 }
