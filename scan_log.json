@@ -1,20 +1,15 @@
 {
-  "total_runs": 1508,
-  "total_matches": 436,
-  "last_run": "2026-10-12 09:53",
-  "jobs_collected": 45,
-  "new_jobs": 27,
-  "matches": 2,
+  "total_runs": 1509,
+  "total_matches": 437,
+  "last_run": "2026-10-12 19:27",
+  "jobs_collected": 32,
+  "new_jobs": 22,
+  "matches": 1,
   "last_matches": [
     {
-      "title": "Business Analyst, TPA",
-      "company": "Gartner",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-tpa-at-gartner-4477516320"
-    },
-    {
-      "title": "Insights Business Analyst",
-      "company": "Atlas Copco Group",
-      "url": "https://in.linkedin.com/jobs/view/insights-business-analyst-at-atlas-copco-group-4477509935"
+      "title": "Business Analyst",
+      "company": "BNP Paribas",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-bnp-paribas-4478527734"
     }
   ]
 }
