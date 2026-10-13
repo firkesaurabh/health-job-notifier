@@ -1,9 +1,20 @@
 {
-  "total_runs": 1511,
-  "total_matches": 437,
-  "last_run": "2026-10-13 08:36",
-  "jobs_collected": 20,
-  "new_jobs": 8,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1512,
+  "total_matches": 439,
+  "last_run": "2026-10-13 16:32",
+  "jobs_collected": 26,
+  "new_jobs": 20,
+  "matches": 2,
+  "last_matches": [
+    {
+      "title": "Business Analyst (Claims Adjudication) (2 Yrs to 15 Yrs) Hyderabad",
+      "company": "Innova ESI",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-claims-adjudication-2-yrs-to-15-yrs-hyderabad-at-innova-esi-4478776969"
+    },
+    {
+      "title": "IN_Associate_Business Analyst (Reinsurance expert)_ AppTech_Advisory _Mumbai (immediate joiner)",
+      "company": "PwC India",
+      "url": "https://in.linkedin.com/jobs/view/in-associate-business-analyst-reinsurance-expert-apptech-advisory-mumbai-immediate-joiner-at-pwc-india-4476435004"
+    }
+  ]
 }
