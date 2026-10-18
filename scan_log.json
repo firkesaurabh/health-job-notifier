@@ -1,15 +1,9 @@
 {
-  "total_runs": 1545,
+  "total_runs": 1546,
   "total_matches": 445,
-  "last_run": "2026-10-18 19:45",
-  "jobs_collected": 24,
-  "new_jobs": 6,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Business Analyst (Part-time, Equity only)",
-      "company": "Kefilo",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-part-time-equity-only-at-kefilo-4479918259"
-    }
-  ]
+  "last_run": "2026-10-18 21:59",
+  "jobs_collected": 42,
+  "new_jobs": 13,
+  "matches": 0,
+  "last_matches": []
 }
