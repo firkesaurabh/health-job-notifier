@@ -1,15 +1,9 @@
 {
-  "total_runs": 1550,
+  "total_runs": 1551,
   "total_matches": 447,
-  "last_run": "2026-10-19 15:56",
-  "jobs_collected": 42,
-  "new_jobs": 26,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Business Analyst \u2013 Commercial P&C / MGA",
-      "company": "Jobgether",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-%E2%80%93-commercial-p-c-mga-at-jobgether-4479962376"
-    }
-  ]
+  "last_run": "2026-10-19 20:47",
+  "jobs_collected": 30,
+  "new_jobs": 8,
+  "matches": 0,
+  "last_matches": []
 }
