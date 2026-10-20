@@ -1,9 +1,15 @@
 {
-  "total_runs": 1556,
-  "total_matches": 448,
-  "last_run": "2026-10-20 18:14",
-  "jobs_collected": 40,
-  "new_jobs": 7,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1557,
+  "total_matches": 449,
+  "last_run": "2026-10-20 21:58",
+  "jobs_collected": 42,
+  "new_jobs": 8,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "Persistent Systems",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-persistent-systems-4480409364"
+    }
+  ]
 }
