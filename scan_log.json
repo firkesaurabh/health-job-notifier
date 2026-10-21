@@ -1,15 +1,9 @@
 {
-  "total_runs": 1561,
+  "total_runs": 1562,
   "total_matches": 450,
-  "last_run": "2026-10-21 15:42",
-  "jobs_collected": 42,
-  "new_jobs": 21,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "NextAmp",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-nextamp-4479413133"
-    }
-  ]
+  "last_run": "2026-10-21 19:44",
+  "jobs_collected": 41,
+  "new_jobs": 6,
+  "matches": 0,
+  "last_matches": []
 }
