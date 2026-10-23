@@ -1,15 +1,9 @@
 {
-  "total_runs": 1569,
+  "total_runs": 1570,
   "total_matches": 453,
-  "last_run": "2026-10-22 23:44",
-  "jobs_collected": 45,
-  "new_jobs": 5,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Lead Business Analyst (Lead BA)",
-      "company": "Bravura Solutions",
-      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-lead-ba-at-bravura-solutions-4481347776"
-    }
-  ]
+  "last_run": "2026-10-23 02:13",
+  "jobs_collected": 46,
+  "new_jobs": 4,
+  "matches": 0,
+  "last_matches": []
 }
