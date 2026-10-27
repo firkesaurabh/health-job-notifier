@@ -1,9 +1,15 @@
 {
-  "total_runs": 1597,
-  "total_matches": 455,
-  "last_run": "2026-10-27 18:26",
-  "jobs_collected": 43,
-  "new_jobs": 22,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1598,
+  "total_matches": 456,
+  "last_run": "2026-10-27 22:43",
+  "jobs_collected": 44,
+  "new_jobs": 5,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Senior Business Systems Analyst",
+      "company": "PFI Innovation Centre India",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-systems-analyst-at-pfi-innovation-centre-india-4484251287"
+    }
+  ]
 }
