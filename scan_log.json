@@ -1,15 +1,15 @@
 {
-  "total_runs": 1600,
-  "total_matches": 458,
-  "last_run": "2026-10-28 07:38",
-  "jobs_collected": 44,
-  "new_jobs": 13,
+  "total_runs": 1601,
+  "total_matches": 459,
+  "last_run": "2026-10-28 14:36",
+  "jobs_collected": 40,
+  "new_jobs": 19,
   "matches": 1,
   "last_matches": [
     {
-      "title": "Senior Business Analyst-- P&C Insurance / Motor Insurance",
-      "company": "Digit Insurance",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-p-c-insurance-motor-insurance-at-digit-insurance-4482274845"
+      "title": "Associate Business Analyst (SRA)",
+      "company": "PhonePe",
+      "url": "https://in.linkedin.com/jobs/view/associate-business-analyst-sra-at-phonepe-4482510546"
     }
   ]
 }
