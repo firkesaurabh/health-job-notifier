@@ -1,15 +1,9 @@
 {
-  "total_runs": 1606,
+  "total_runs": 1607,
   "total_matches": 460,
-  "last_run": "2026-10-29 17:08",
-  "jobs_collected": 38,
-  "new_jobs": 13,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst II",
-      "company": "Insurity",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-ii-at-insurity-4475465894"
-    }
-  ]
+  "last_run": "2026-10-29 22:06",
+  "jobs_collected": 45,
+  "new_jobs": 16,
+  "matches": 0,
+  "last_matches": []
 }
