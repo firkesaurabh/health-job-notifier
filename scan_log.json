@@ -1,20 +1,9 @@
 {
-  "total_runs": 1609,
+  "total_runs": 1610,
   "total_matches": 464,
-  "last_run": "2026-10-30 09:10",
-  "jobs_collected": 41,
-  "new_jobs": 14,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Senior Business Analyst",
-      "company": "Prophecy Technologies",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-prophecy-technologies-4484805686"
-    },
-    {
-      "title": "Business Analyst - Health Care ( 834 EDI files) / 8 -15 Yrs Exp / Immediate Joiner",
-      "company": "Tek Grove",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-health-care-834-edi-files-8-15-yrs-exp-immediate-joiner-at-tek-grove-4485286913"
-    }
-  ]
+  "last_run": "2026-10-30 16:19",
+  "jobs_collected": 42,
+  "new_jobs": 21,
+  "matches": 0,
+  "last_matches": []
 }
