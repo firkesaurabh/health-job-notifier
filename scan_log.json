@@ -1,9 +1,20 @@
 {
-  "total_runs": 1607,
-  "total_matches": 460,
-  "last_run": "2026-10-29 22:06",
-  "jobs_collected": 45,
-  "new_jobs": 16,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1608,
+  "total_matches": 462,
+  "last_run": "2026-10-30 02:13",
+  "jobs_collected": 46,
+  "new_jobs": 30,
+  "matches": 2,
+  "last_matches": [
+    {
+      "title": "Lead Business Analyst",
+      "company": "Digit Insurance",
+      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-at-digit-insurance-4483001432"
+    },
+    {
+      "title": "{\n  \"jobTitle\": \"Senior Process Analyst, Revenue Cycle Management (Epic)\",\n  \"locationName\": \"Chennai\",\n  \"jobType\": \"!None!\",\n  \"workplaceType\": \"!None!\",\n  \"companyName\": \"Huron\"\n}",
+      "company": "Huron",
+      "url": "https://in.linkedin.com/jobs/view/%0A-jobtitle-senior-process-analyst-revenue-cycle-management-epic-%0A-locationname-chennai-%0A-jobtype-%21none%21-%0A-workplacetype-%21none%21-%0A-companyname-huron-%0A-at-huron-4483021013"
+    }
+  ]
 }
