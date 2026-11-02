@@ -1,9 +1,25 @@
 {
-  "total_runs": 1623,
-  "total_matches": 466,
-  "last_run": "2026-11-02 08:36",
-  "jobs_collected": 35,
-  "new_jobs": 16,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1624,
+  "total_matches": 469,
+  "last_run": "2026-11-02 18:55",
+  "jobs_collected": 36,
+  "new_jobs": 28,
+  "matches": 3,
+  "last_matches": [
+    {
+      "title": "Senior Business Analyst",
+      "company": "BETSOL",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-betsol-4486171500"
+    },
+    {
+      "title": "IGA Business Analyst",
+      "company": "Persistent Systems",
+      "url": "https://in.linkedin.com/jobs/view/iga-business-analyst-at-persistent-systems-4485453823"
+    },
+    {
+      "title": "Sr Business Analyst \u2013 ServiceNow",
+      "company": "iBeris Software Solutions",
+      "url": "https://in.linkedin.com/jobs/view/sr-business-analyst-%E2%80%93-servicenow-at-iberis-software-solutions-4485414914"
+    }
+  ]
 }
