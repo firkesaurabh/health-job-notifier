@@ -1,9 +1,15 @@
 {
-  "total_runs": 1626,
-  "total_matches": 469,
-  "last_run": "2026-11-03 08:44",
-  "jobs_collected": 43,
-  "new_jobs": 17,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1627,
+  "total_matches": 470,
+  "last_run": "2026-11-03 16:41",
+  "jobs_collected": 39,
+  "new_jobs": 24,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst",
+      "company": "GetixHealth",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-getixhealth-4486842435"
+    }
+  ]
 }
