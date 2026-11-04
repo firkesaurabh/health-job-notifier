@@ -1,9 +1,20 @@
 {
-  "total_runs": 1630,
-  "total_matches": 470,
-  "last_run": "2026-11-04 10:02",
-  "jobs_collected": 46,
-  "new_jobs": 21,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1631,
+  "total_matches": 472,
+  "last_run": "2026-11-04 18:18",
+  "jobs_collected": 43,
+  "new_jobs": 25,
+  "matches": 2,
+  "last_matches": [
+    {
+      "title": "BUSINESS ANALYST \u2013 INSURANCE DOMAIN",
+      "company": "ZGROW TECH SOLUTIONS",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-insurance-domain-at-zgrow-tech-solutions-4485095247"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "NextAmp",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-nextamp-4487292311"
+    }
+  ]
 }
