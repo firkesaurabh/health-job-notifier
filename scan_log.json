@@ -1,20 +1,15 @@
 {
-  "total_runs": 1635,
-  "total_matches": 479,
-  "last_run": "2026-11-05 20:52",
-  "jobs_collected": 40,
-  "new_jobs": 12,
-  "matches": 2,
+  "total_runs": 1636,
+  "total_matches": 480,
+  "last_run": "2026-11-06 01:14",
+  "jobs_collected": 43,
+  "new_jobs": 9,
+  "matches": 1,
   "last_matches": [
     {
-      "title": "Sr Business Systems Analyst- GR- 40582-75861-1- JR210966",
-      "company": "Carelon Global Solutions India",
-      "url": "https://in.linkedin.com/jobs/view/sr-business-systems-analyst-gr-40582-75861-1-jr210966-at-carelon-global-solutions-india-4487775990"
-    },
-    {
-      "title": "Senior Technology Business Analyst",
-      "company": "Conduent",
-      "url": "https://in.linkedin.com/jobs/view/senior-technology-business-analyst-at-conduent-4450618143"
+      "title": "Business Analyst II",
+      "company": "RX Global",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-ii-at-rx-global-4486753975"
     }
   ]
 }
