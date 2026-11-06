@@ -1,20 +1,15 @@
 {
-  "total_runs": 1637,
-  "total_matches": 482,
-  "last_run": "2026-11-06 08:39",
-  "jobs_collected": 44,
-  "new_jobs": 9,
-  "matches": 2,
+  "total_runs": 1638,
+  "total_matches": 483,
+  "last_run": "2026-11-06 16:24",
+  "jobs_collected": 46,
+  "new_jobs": 27,
+  "matches": 1,
   "last_matches": [
     {
-      "title": "Implementation Business Analyst (Customer Delivery & Business Solution)",
-      "company": "Amplify Health",
-      "url": "https://in.linkedin.com/jobs/view/implementation-business-analyst-customer-delivery-business-solution-at-amplify-health-4475742980"
-    },
-    {
-      "title": "Business Analyst \u2013 P& C",
-      "company": "Chubb",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-p-c-at-chubb-4488108778"
+      "title": "Business Analyst - Health Insurance",
+      "company": "Jobgether",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-health-insurance-at-jobgether-4486969316"
     }
   ]
 }
