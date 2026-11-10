@@ -1,9 +1,20 @@
 {
-  "total_runs": 1654,
-  "total_matches": 484,
-  "last_run": "2026-11-10 15:52",
-  "jobs_collected": 25,
-  "new_jobs": 13,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1655,
+  "total_matches": 486,
+  "last_run": "2026-11-10 21:31",
+  "jobs_collected": 43,
+  "new_jobs": 22,
+  "matches": 2,
+  "last_matches": [
+    {
+      "title": "Healthcare Business Analyst",
+      "company": "Zocdoc",
+      "url": "https://in.linkedin.com/jobs/view/healthcare-business-analyst-at-zocdoc-4462938886"
+    },
+    {
+      "title": "We're Hiring | Healthcare RCM Business Analyst / Functional SME",
+      "company": "gingerCube Inc.",
+      "url": "https://in.linkedin.com/jobs/view/we-re-hiring-healthcare-rcm-business-analyst-functional-sme-at-gingercube-inc-4488614226"
+    }
+  ]
 }
