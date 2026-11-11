@@ -1,20 +1,9 @@
 {
-  "total_runs": 1658,
+  "total_runs": 1659,
   "total_matches": 488,
-  "last_run": "2026-11-11 16:42",
+  "last_run": "2026-11-11 23:10",
   "jobs_collected": 43,
-  "new_jobs": 23,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "Senior Insurance Data Business Analyst",
-      "company": "Exavalu",
-      "url": "https://in.linkedin.com/jobs/view/senior-insurance-data-business-analyst-at-exavalu-4488675591"
-    },
-    {
-      "title": "Senior Business Analyst",
-      "company": "Macquarie Group",
-      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-macquarie-group-4473755202"
-    }
-  ]
+  "new_jobs": 14,
+  "matches": 0,
+  "last_matches": []
 }
