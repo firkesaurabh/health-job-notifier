@@ -1,20 +1,9 @@
 {
-  "total_runs": 1662,
+  "total_runs": 1663,
   "total_matches": 490,
-  "last_run": "2026-11-12 21:11",
+  "last_run": "2026-11-13 02:12",
   "jobs_collected": 40,
-  "new_jobs": 14,
-  "matches": 2,
-  "last_matches": [
-    {
-      "title": "RCM Business Analyst",
-      "company": "gingerCube Inc.",
-      "url": "https://in.linkedin.com/jobs/view/rcm-business-analyst-at-gingercube-inc-4488512094"
-    },
-    {
-      "title": "Business Process Analyst",
-      "company": "Thomson Reuters",
-      "url": "https://in.linkedin.com/jobs/view/business-process-analyst-at-thomson-reuters-4489276145"
-    }
-  ]
+  "new_jobs": 8,
+  "matches": 0,
+  "last_matches": []
 }
