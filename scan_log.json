@@ -1,9 +1,15 @@
 {
-  "total_runs": 1666,
-  "total_matches": 491,
-  "last_run": "2026-11-13 23:59",
-  "jobs_collected": 41,
+  "total_runs": 1667,
+  "total_matches": 492,
+  "last_run": "2026-11-14 04:46",
+  "jobs_collected": 42,
   "new_jobs": 7,
-  "matches": 0,
-  "last_matches": []
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Payments Business Analyst",
+      "company": "Persistent Systems",
+      "url": "https://in.linkedin.com/jobs/view/payments-business-analyst-at-persistent-systems-4489861301"
+    }
+  ]
 }
