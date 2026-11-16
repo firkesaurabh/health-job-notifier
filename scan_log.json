@@ -1,9 +1,15 @@
 {
-  "total_runs": 1676,
-  "total_matches": 494,
-  "last_run": "2026-11-16 07:26",
-  "jobs_collected": 39,
-  "new_jobs": 22,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1677,
+  "total_matches": 495,
+  "last_run": "2026-11-16 17:35",
+  "jobs_collected": 40,
+  "new_jobs": 24,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Lead Business Analyst",
+      "company": "Chubb",
+      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-at-chubb-4489775241"
+    }
+  ]
 }
