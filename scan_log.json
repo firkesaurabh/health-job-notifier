@@ -1,15 +1,25 @@
 {
-  "total_runs": 1685,
-  "total_matches": 498,
-  "last_run": "2026-11-19 08:05",
-  "jobs_collected": 42,
-  "new_jobs": 9,
-  "matches": 1,
+  "total_runs": 1686,
+  "total_matches": 501,
+  "last_run": "2026-11-19 17:47",
+  "jobs_collected": 35,
+  "new_jobs": 15,
+  "matches": 3,
   "last_matches": [
     {
-      "title": "Business Analyst - Medical Insurance",
-      "company": "InsuranceMarket.ae\u2122",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-medical-insurance-at-insurancemarket-ae%E2%84%A2-4491381544"
+      "title": "Senior Business Analyst",
+      "company": "Meditab India",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-at-meditab-india-4491380840"
+    },
+    {
+      "title": "Data Business Analyst \u2013 Motor Insurance | Data Mapping & Integration",
+      "company": "Claidroid",
+      "url": "https://in.linkedin.com/jobs/view/data-business-analyst-%E2%80%93-motor-insurance-data-mapping-integration-at-claidroid-4491608442"
+    },
+    {
+      "title": "Senior Business Analyst I",
+      "company": "Insurity",
+      "url": "https://in.linkedin.com/jobs/view/senior-business-analyst-i-at-insurity-4475477423"
     }
   ]
 }
