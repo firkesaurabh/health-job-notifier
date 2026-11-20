@@ -1,9 +1,20 @@
 {
-  "total_runs": 1687,
-  "total_matches": 501,
-  "last_run": "2026-11-19 23:57",
-  "jobs_collected": 17,
-  "new_jobs": 1,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1688,
+  "total_matches": 503,
+  "last_run": "2026-11-20 05:14",
+  "jobs_collected": 32,
+  "new_jobs": 11,
+  "matches": 2,
+  "last_matches": [
+    {
+      "title": "Senior Data Business Analyst",
+      "company": "Keyrus",
+      "url": "https://in.linkedin.com/jobs/view/senior-data-business-analyst-at-keyrus-4492432452"
+    },
+    {
+      "title": "Specialist Business Functional Analyst, AVP",
+      "company": "Deutsche Bank",
+      "url": "https://in.linkedin.com/jobs/view/specialist-business-functional-analyst-avp-at-deutsche-bank-4492437127"
+    }
+  ]
 }
