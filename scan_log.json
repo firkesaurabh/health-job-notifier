@@ -1,15 +1,9 @@
 {
-  "total_runs": 1693,
+  "total_runs": 1694,
   "total_matches": 509,
-  "last_run": "2026-11-21 18:20",
-  "jobs_collected": 25,
-  "new_jobs": 11,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst, AVP",
-      "company": "Deutsche Bank",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-avp-at-deutsche-bank-4492991333"
-    }
-  ]
+  "last_run": "2026-11-21 23:37",
+  "jobs_collected": 34,
+  "new_jobs": 15,
+  "matches": 0,
+  "last_matches": []
 }
