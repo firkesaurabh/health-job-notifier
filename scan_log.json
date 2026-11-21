@@ -1,15 +1,9 @@
 {
-  "total_runs": 1690,
+  "total_runs": 1691,
   "total_matches": 508,
-  "last_run": "2026-11-20 22:01",
-  "jobs_collected": 44,
-  "new_jobs": 23,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Senior Systems Analyst",
-      "company": "Bravura Solutions",
-      "url": "https://in.linkedin.com/jobs/view/senior-systems-analyst-at-bravura-solutions-4492587958"
-    }
-  ]
+  "last_run": "2026-11-21 03:36",
+  "jobs_collected": 36,
+  "new_jobs": 2,
+  "matches": 0,
+  "last_matches": []
 }
