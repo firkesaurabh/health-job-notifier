@@ -1,9 +1,15 @@
 {
-  "total_runs": 1696,
-  "total_matches": 509,
-  "last_run": "2026-11-22 12:04",
-  "jobs_collected": 25,
-  "new_jobs": 8,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1697,
+  "total_matches": 510,
+  "last_run": "2026-11-22 20:01",
+  "jobs_collected": 43,
+  "new_jobs": 21,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Process Analyst",
+      "company": "CSC",
+      "url": "https://in.linkedin.com/jobs/view/business-process-analyst-at-csc-4493384175"
+    }
+  ]
 }
