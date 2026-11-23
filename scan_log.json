@@ -1,15 +1,9 @@
 {
-  "total_runs": 1698,
+  "total_runs": 1699,
   "total_matches": 511,
-  "last_run": "2026-11-23 01:12",
-  "jobs_collected": 35,
-  "new_jobs": 9,
-  "matches": 1,
-  "last_matches": [
-    {
-      "title": "Business Analyst",
-      "company": "Gartner",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-gartner-4493531876"
-    }
-  ]
+  "last_run": "2026-11-23 09:55",
+  "jobs_collected": 26,
+  "new_jobs": 12,
+  "matches": 0,
+  "last_matches": []
 }
