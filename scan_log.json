@@ -1,9 +1,15 @@
 {
-  "total_runs": 1699,
-  "total_matches": 511,
-  "last_run": "2026-11-23 09:55",
-  "jobs_collected": 26,
-  "new_jobs": 12,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1700,
+  "total_matches": 512,
+  "last_run": "2026-11-23 21:47",
+  "jobs_collected": 40,
+  "new_jobs": 27,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Lead Business Analyst - Readiness Reimbursement Account",
+      "company": "Fidelity Investments",
+      "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-readiness-reimbursement-account-at-fidelity-investments-4493659555"
+    }
+  ]
 }
