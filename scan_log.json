@@ -1,9 +1,15 @@
 {
-  "total_runs": 1705,
-  "total_matches": 515,
-  "last_run": "2026-11-25 20:16",
-  "jobs_collected": 42,
-  "new_jobs": 25,
-  "matches": 0,
-  "last_matches": []
+  "total_runs": 1706,
+  "total_matches": 516,
+  "last_run": "2026-11-26 03:15",
+  "jobs_collected": 27,
+  "new_jobs": 6,
+  "matches": 1,
+  "last_matches": [
+    {
+      "title": "Business Analyst I - Forms",
+      "company": "Insurity",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-i-forms-at-insurity-4494969099"
+    }
+  ]
 }
