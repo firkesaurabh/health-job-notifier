@@ -1,15 +1,15 @@
 {
-  "total_runs": 1706,
-  "total_matches": 516,
-  "last_run": "2026-11-26 03:15",
-  "jobs_collected": 27,
-  "new_jobs": 6,
+  "total_runs": 1707,
+  "total_matches": 517,
+  "last_run": "2026-11-26 13:18",
+  "jobs_collected": 41,
+  "new_jobs": 15,
   "matches": 1,
   "last_matches": [
     {
-      "title": "Business Analyst I - Forms",
-      "company": "Insurity",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-i-forms-at-insurity-4494969099"
+      "title": "Business Analyst \u2013 US Healthcare /Insurance",
+      "company": "Programmers.ai",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-us-healthcare-insurance-at-programmers-ai-4495258622"
     }
   ]
 }
