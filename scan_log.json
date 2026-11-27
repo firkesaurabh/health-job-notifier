@@ -1,20 +1,15 @@
 {
-  "total_runs": 1708,
-  "total_matches": 519,
-  "last_run": "2026-11-26 22:40",
-  "jobs_collected": 41,
-  "new_jobs": 25,
-  "matches": 2,
+  "total_runs": 1709,
+  "total_matches": 520,
+  "last_run": "2026-11-27 04:38",
+  "jobs_collected": 42,
+  "new_jobs": 4,
+  "matches": 1,
   "last_matches": [
     {
-      "title": "Business Analyst \u2013 US Healthcare",
-      "company": "Programmers.ai",
-      "url": "https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-us-healthcare-at-programmers-ai-4495258622"
-    },
-    {
-      "title": "Senior Technology Business Analyst",
-      "company": "Conduent",
-      "url": "https://in.linkedin.com/jobs/view/senior-technology-business-analyst-at-conduent-4450618143"
+      "title": "Business Analyst",
+      "company": "Sapiens",
+      "url": "https://in.linkedin.com/jobs/view/business-analyst-at-sapiens-4495580059"
     }
   ]
 }
